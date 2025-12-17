@@ -1,0 +1,6953 @@
+{
+  "万国帮": {
+    "name": "万国帮",
+    "aliases": [
+      "万国帮"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省防汛总指挥、副省长",
+        "evidence": "电话是省防汛总指挥、副省长万国帮打来的——他报告了南部那个城市被水淹没的消息。"
+      },
+      {
+        "key": "occupation",
+        "value": "副省长",
+        "evidence": "副省长万国帮一到，田晓霞就跟着省上的领导们钻进了已经发动起来的直升飞机机舱中。"
+      }
+    ]
+  },
+  "万江老汉": {
+    "name": "万江老汉",
+    "aliases": [
+      "万江老汉"
+    ],
+    "attributes": []
+  },
+  "三锤": {
+    "name": "三锤",
+    "aliases": [
+      "三锤"
+    ],
+    "attributes": []
+  },
+  "主任医师": {
+    "name": "主任医师",
+    "aliases": [
+      "主任医师"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "主任医师",
+        "evidence": "不一会，院长和主任医师从手术室里出来了。"
+      }
+    ]
+  },
+  "主治医师": {
+    "name": "主治医师",
+    "aliases": [
+      "主治医师"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "主治医师",
+        "evidence": "这时，一位主治医师拿来了“医院术前谈话记录单”，让家属签字。"
+      }
+    ]
+  },
+  "乐乐": {
+    "name": "乐乐",
+    "aliases": [
+      "乐乐"
+    ],
+    "attributes": []
+  },
+  "乔书记": {
+    "name": "乔书记",
+    "aliases": [
+      "乔书记"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "但我估计乔书记、石钟和田福军恐怕和中纪委的意见是一致的……"
+      }
+    ]
+  },
+  "乔伯年": {
+    "name": "乔伯年",
+    "aliases": [
+      "乔伯年"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省委书记",
+        "evidence": "他，刚上任不久的省委书记，此刻哪有心思把这大自然的风光看成是一幅五彩画图呢？"
+      },
+      {
+        "key": "hometown",
+        "value": "黄土高原",
+        "evidence": "他出生在那里，闭住眼也能看见故乡一年四季的景象。"
+      },
+      {
+        "key": "hometown",
+        "value": "原东县",
+        "evidence": "“我是原东县人。咱们黄原有句口歌：原西的女子原东的汉。因此我就娶了个原西老婆！”"
+      },
+      {
+        "key": "occupation",
+        "value": "省委领导",
+        "evidence": "他立刻对两位省委领导说：“这么重大的担子，我能力太低，怕担负不了。请省委能重新考虑……”"
+      },
+      {
+        "key": "occupation",
+        "value": "省委正副书记",
+        "evidence": "到时省委正副书记乔伯年、吴斌、石钟和省长汪昭义都要和他们一起去北京参加这个汇报会。"
+      }
+    ]
+  },
+  "书记的老婆": {
+    "name": "书记的老婆",
+    "aliases": [
+      "书记的老婆"
+    ],
+    "attributes": []
+  },
+  "二妈": {
+    "name": "二妈",
+    "aliases": [
+      "二妈"
+    ],
+    "attributes": []
+  },
+  "二爸": {
+    "name": "二爸",
+    "aliases": [
+      "二爸"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "大队支部委员",
+        "evidence": "当然，二爸肯定也在那里，他是大队支部委员，又是队里的基建队长。"
+      },
+      {
+        "key": "occupation",
+        "value": "基建队长",
+        "evidence": "当然，二爸肯定也在那里，他是大队支部委员，又是队里的基建队长。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "归根结底，他是农民，还拉扯着三个娃娃，不劳动一家人吃啥呀？"
+      }
+    ]
+  },
+  "云云": {
+    "name": "云云",
+    "aliases": [
+      "云云"
+    ],
+    "attributes": []
+  },
+  "他": {
+    "name": "他",
+    "aliases": [
+      "他"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "他和润叶双双考上了石圪节高小"
+      },
+      {
+        "key": "traits",
+        "value": "学习好",
+        "evidence": "他学习好，常给润叶帮助"
+      },
+      {
+        "key": "traits",
+        "value": "勇敢/护着润叶",
+        "evidence": "要是哪个男同学敢欺负润叶，他就不怕别人瞎说他和润叶的长长短短，站出来护着润叶"
+      },
+      {
+        "key": "status",
+        "value": "农民家庭",
+        "evidence": "到那里去上学，对一个农民家庭来说，可不是一件容易事"
+      }
+    ]
+  },
+  "他二妈": {
+    "name": "他二妈",
+    "aliases": [
+      "他二妈"
+    ],
+    "attributes": []
+  },
+  "他二爸": {
+    "name": "他二爸",
+    "aliases": [
+      "他二爸"
+    ],
+    "attributes": []
+  },
+  "侯主任": {
+    "name": "侯主任",
+    "aliases": [
+      "侯主任"
+    ],
+    "attributes": []
+  },
+  "侯玉英": {
+    "name": "侯玉英",
+    "aliases": [
+      "侯玉英",
+      "玉英"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "爱关心别人私事",
+        "evidence": "这是一位爱关心别人私事的女同学。"
+      },
+      {
+        "key": "traits",
+        "value": "跛女子",
+        "evidence": "但有一天这个秘密被跛女子侯玉英发现了。"
+      },
+      {
+        "key": "traits",
+        "value": "腿不干练",
+        "evidence": "但由于腿不干练，加上泥地溜滑，三番五次爬上去又跌了下来"
+      },
+      {
+        "key": "traits",
+        "value": "腿不好",
+        "evidence": "可又想也不能怨侯玉英走得慢——她腿不好！"
+      },
+      {
+        "key": "traits",
+        "value": "多情的跛女子",
+        "evidence": "仍然在心里很感谢这位多情的跛女子"
+      },
+      {
+        "key": "occupation",
+        "value": "待业青年",
+        "evidence": "他也是个待业青年！去年，我爸为我们办了个营业执照，我们就干上了这营生……生意还不错"
+      }
+    ]
+  },
+  "侯生才": {
+    "name": "侯生才",
+    "aliases": [
+      "侯生才"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "县百货公司第二门市部主任",
+        "evidence": "侯玉英的父亲侯生才是县百货公司第二门市部主任。"
+      },
+      {
+        "key": "occupation",
+        "value": "主任",
+        "evidence": "侯主任一听她是自己女儿一个班的同学，倒动了恻隐之心"
+      },
+      {
+        "key": "occupation",
+        "value": "县百货公司副主任",
+        "evidence": "被提拔到县百货公司当了副主任"
+      },
+      {
+        "key": "occupation",
+        "value": "副经理",
+        "evidence": "副经理我们已经熟悉了——跛女子侯玉英的父亲侯生才。"
+      },
+      {
+        "key": "occupation",
+        "value": "县百货公司经理",
+        "evidence": "他又通过县百货公司经理侯生才走后门另买了一辆。"
+      }
+    ]
+  },
+  "侯生贵": {
+    "name": "侯生贵",
+    "aliases": [
+      "侯生贵"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "合作商店卖货",
+        "evidence": "我叫侯生贵，在城里合作商店卖货"
+      }
+    ]
+  },
+  "俊山叔": {
+    "name": "俊山叔",
+    "aliases": [
+      "俊山叔"
+    ],
+    "attributes": []
+  },
+  "俊武他爸": {
+    "name": "俊武他爸",
+    "aliases": [
+      "俊武他爸"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "金先生",
+        "evidence": "另一位是俊武他爸。深孚众望的金先生精通孔孟学说，用他的道德文章为村里村外的人做过许多好事。"
+      }
+    ]
+  },
+  "俊武媳妇": {
+    "name": "俊武媳妇",
+    "aliases": [
+      "俊武媳妇"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "精明",
+        "evidence": "精明人金俊武的媳妇也很精明"
+      }
+    ]
+  },
+  "俊武的婆姨": {
+    "name": "俊武的婆姨",
+    "aliases": [
+      "俊武的婆姨"
+    ],
+    "attributes": []
+  },
+  "保尔·柯察金": {
+    "name": "保尔·柯察金",
+    "aliases": [
+      "保尔·柯察金"
+    ],
+    "attributes": []
+  },
+  "候玉英": {
+    "name": "候玉英",
+    "aliases": [
+      "候玉英"
+    ],
+    "attributes": []
+  },
+  "光辉媳妇": {
+    "name": "光辉媳妇",
+    "aliases": [
+      "光辉媳妇"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "卖茶饭",
+        "evidence": "听说光辉媳妇在咱们村的公路边上卖茶饭，还有些收入……"
+      }
+    ]
+  },
+  "公公": {
+    "name": "公公",
+    "aliases": [
+      "公公"
+    ],
+    "attributes": []
+  },
+  "兰花": {
+    "name": "兰花",
+    "aliases": [
+      "兰花"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "身体又壮实，将来砍柴、担水、种自留地都行"
+      },
+      {
+        "key": "hometown",
+        "value": "双水村",
+        "evidence": "最后选定了双水村孙玉厚的大女子兰花。"
+      },
+      {
+        "key": "traits",
+        "value": "忠厚善良",
+        "evidence": "这个忠厚善良的农家姑娘"
+      },
+      {
+        "key": "status",
+        "value": "家穷",
+        "evidence": "可怜的兰花由于家穷"
+      },
+      {
+        "key": "status",
+        "value": "家里经常吃了上顿没下顿",
+        "evidence": "死女子当初不听他的话，硬是跟了罐子村这个二流子，家里经常吃了上顿没下顿。"
+      },
+      {
+        "key": "traits",
+        "value": "忠贞",
+        "evidence": "嫁鸡随鸡嫁狗随狗的传统观念，使这个没文化的农村妇女对那个二流子男人保持着不二忠贞。"
+      },
+      {
+        "key": "occupation",
+        "value": "农村妇人",
+        "evidence": "在这个农村妇人的眼里“南洋女人”是个大人物"
+      },
+      {
+        "key": "traits",
+        "value": "厚道",
+        "evidence": "厚道的兰花并没有因为丈夫带回个女人就乱猜想什么"
+      },
+      {
+        "key": "traits",
+        "value": "迟钝",
+        "evidence": "但这个迟钝女人并没有感觉到这一切。"
+      },
+      {
+        "key": "traits",
+        "value": "大字不识",
+        "evidence": "虽然她是个大字不识的农民"
+      },
+      {
+        "key": "occupation",
+        "value": "妻子",
+        "evidence": "只要丈夫不再离开她，夜夜搂着她睡觉，这就是她最大的幸福了。"
+      }
+    ]
+  },
+  "冬妮娅": {
+    "name": "冬妮娅",
+    "aliases": [
+      "冬妮娅"
+    ],
+    "attributes": []
+  },
+  "冯世宽": {
+    "name": "冯世宽",
+    "aliases": [
+      "世宽",
+      "冯世宽"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "县革委会主任",
+        "evidence": "前几天，县革委会主任冯世宽亲自带队检查各公社的会战"
+      },
+      {
+        "key": "occupation",
+        "value": "一把手",
+        "evidence": "在许多问题的看法上，福军和一把手冯世宽有分歧，登云明显地支持世宽。"
+      },
+      {
+        "key": "occupation",
+        "value": "县上主任",
+        "evidence": "这是县上冯世宽主任的政策。"
+      },
+      {
+        "key": "occupation",
+        "value": "主任",
+        "evidence": "冯主任非常恼火"
+      },
+      {
+        "key": "traits",
+        "value": "手腕高明",
+        "evidence": "冯世宽手腕高明"
+      },
+      {
+        "key": "occupation",
+        "value": "地县领导",
+        "evidence": "在苗凯和冯世宽发完言后，高老脸抽搐着，说：“我们敬爱的周总理生前非常关心黄原老区人民。他老人家逝世的前一年，听说黄原有的地方农民还饿肚子，都难过得流了泪……”他转过脸看着苗凯和冯世宽，“你们在几年前就给总理做过保证，要三年变面貌，五年粮食翻一番。现在仍然这样说！是不是过五年以后，还这样说？同志们，再不要光在嘴上喊口号了，要真正解决问题！照我看，现在最主要的问题是，‘四人帮’的那一套做法还在作怪……”"
+      },
+      {
+        "key": "occupation",
+        "value": "原西县革委会主任",
+        "evidence": "原西县革委会主任冯世宽"
+      },
+      {
+        "key": "occupation",
+        "value": "行署副专员",
+        "evidence": "行署副专员冯世宽到宿舍看他来了"
+      },
+      {
+        "key": "occupation",
+        "value": "副专员",
+        "evidence": "他已经派出由副专员冯世宽带队的考察团"
+      },
+      {
+        "key": "occupation",
+        "value": "常务副专员",
+        "evidence": "常务副专员冯世宽小心地推开门进来了"
+      },
+      {
+        "key": "traits",
+        "value": "对工作是很负责任的，做什么事情都很认真",
+        "evidence": "这位老中级师范毕业生对工作是很负责任的，做什么事情都很认真"
+      },
+      {
+        "key": "occupation",
+        "value": "行署专员",
+        "evidence": "省委就任命冯世宽去那里当行署专员。"
+      }
+    ]
+  },
+  "冯主任": {
+    "name": "冯主任",
+    "aliases": [
+      "冯主任"
+    ],
+    "attributes": []
+  },
+  "凤阁": {
+    "name": "凤阁",
+    "aliases": [
+      "凤阁"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "专员",
+        "evidence": "才知道他们在南面一个地区当专员的表兄弟凤阁"
+      }
+    ]
+  },
+  "刑良俊": {
+    "name": "刑良俊",
+    "aliases": [
+      "刑良俊"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "本书编选者",
+        "evidence": "得益于陕西人民出版社和本书编选者陈泽顺、刑良俊同志"
+      }
+    ]
+  },
+  "刘书记": {
+    "name": "刘书记",
+    "aliases": [
+      "书记",
+      "刘书记"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "性格刚硬的刘书记被眼前的景象惊得目瞪口呆"
+      },
+      {
+        "key": "traits",
+        "value": "性格刚硬",
+        "evidence": "性格刚硬的刘书记被眼前的景象惊得目瞪口呆"
+      }
+    ]
+  },
+  "刘吉喜": {
+    "name": "刘吉喜",
+    "aliases": [
+      "刘吉喜"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "黄原副专员",
+        "evidence": "黄原副专员刘吉喜同志就花了行署近两万块钱"
+      }
+    ]
+  },
+  "刘心武": {
+    "name": "刘心武",
+    "aliases": [
+      "刘心武"
+    ],
+    "attributes": []
+  },
+  "刘志祥": {
+    "name": "刘志祥",
+    "aliases": [
+      "刘志祥"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "公社副主任",
+        "evidence": "公社副主任刘志祥看见了他们，赶忙迎了出来。"
+      },
+      {
+        "key": "occupation",
+        "value": "副主任",
+        "evidence": "他一回到公社，副主任刘志祥就把县上两位领导来柳岔的前前后后都向他汇报了。"
+      },
+      {
+        "key": "occupation",
+        "value": "城关镇镇长",
+        "evidence": "城关镇镇长刘志祥"
+      }
+    ]
+  },
+  "刘志英": {
+    "name": "刘志英",
+    "aliases": [
+      "刘志英",
+      "志英"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "市医院常委书记",
+        "evidence": "他爱人刘志英在市医院任常委书记"
+      },
+      {
+        "key": "occupation",
+        "value": "党委书记",
+        "evidence": "婆婆刘志英就坚持让她住进了自己任党委书记的黄原市医院。"
+      }
+    ]
+  },
+  "刘根民": {
+    "name": "刘根民",
+    "aliases": [
+      "刘根民",
+      "根民"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "文书",
+        "evidence": "公社里除过文书刘根民是他小学同学"
+      },
+      {
+        "key": "occupation",
+        "value": "公社文书",
+        "evidence": "公社文书刘根民是少安高小时的同班同学"
+      },
+      {
+        "key": "occupation",
+        "value": "国家干部",
+        "evidence": "被录用成了国家干部，一直在石圪节公社当文书"
+      },
+      {
+        "key": "occupation",
+        "value": "公社的副主任",
+        "evidence": "石圪节公社原文书、孙少安的同学刘根民也提拔成了公社的副主任"
+      },
+      {
+        "key": "occupation",
+        "value": "公社副主任",
+        "evidence": "根民现在已成了石圪节公社副主任。"
+      },
+      {
+        "key": "occupation",
+        "value": "副手",
+        "evidence": "他们副手刘根民叫来，发愁地和他商量到哪里去找个“冒尖户”"
+      },
+      {
+        "key": "occupation",
+        "value": "公社主任",
+        "evidence": "他找到了公社的徐主任和刘主任"
+      },
+      {
+        "key": "occupation",
+        "value": "石圪节公社主任",
+        "evidence": "任命原副主任刘根民为石圪节公社主任，"
+      },
+      {
+        "key": "occupation",
+        "value": "石圪节乡乡长",
+        "evidence": "根民现在是石圪节乡乡长"
+      },
+      {
+        "key": "occupation",
+        "value": "乡长",
+        "evidence": "因为乡长刘根民是少安的同学，少安自己不好意思去，就把这些事全权交给二爸去执行。"
+      }
+    ]
+  },
+  "刘玉升": {
+    "name": "刘玉升",
+    "aliases": [
+      "刘玉升"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "劳动行里实在不行",
+        "evidence": "刘麻子身板干瘦，一风能吹倒，劳动行里实在不行。"
+      },
+      {
+        "key": "status",
+        "value": "光景日月在双水村也算得上最为烂包的一家",
+        "evidence": "两口子生了六个儿女，加上刘玉升劳动不行，光景日月在双水村也算得上最为烂包的一家。"
+      },
+      {
+        "key": "occupation",
+        "value": "神汉",
+        "evidence": "新“出马”的神汉刘玉升立即开始为人“治病”。"
+      },
+      {
+        "key": "occupation",
+        "value": "巫神",
+        "evidence": "以巫神刘玉升和金光亮为首的“庙会”"
+      }
+    ]
+  },
+  "刘玉厚": {
+    "name": "刘玉厚",
+    "aliases": [
+      "刘玉厚"
+    ],
+    "attributes": []
+  },
+  "刘老六": {
+    "name": "刘老六",
+    "aliases": [
+      "刘老六"
+    ],
+    "attributes": []
+  },
+  "刘阿姨": {
+    "name": "刘阿姨",
+    "aliases": [
+      "刘阿姨"
+    ],
+    "attributes": []
+  },
+  "刘麻子": {
+    "name": "刘麻子",
+    "aliases": [
+      "刘麻子"
+    ],
+    "attributes": []
+  },
+  "初澜": {
+    "name": "初澜",
+    "aliases": [
+      "初澜"
+    ],
+    "attributes": []
+  },
+  "副总理": {
+    "name": "副总理",
+    "aliases": [
+      "副总理"
+    ],
+    "attributes": []
+  },
+  "包头后生": {
+    "name": "包头后生",
+    "aliases": [
+      "包头后生"
+    ],
+    "attributes": []
+  },
+  "匠人": {
+    "name": "匠人",
+    "aliases": [
+      "匠人"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "匠人",
+        "evidence": "老碗现在轮到一个边乐和边在裤腰里寻虱子的匠人手里。"
+      }
+    ]
+  },
+  "华国锋": {
+    "name": "华国锋",
+    "aliases": [
+      "华国锋"
+    ],
+    "attributes": []
+  },
+  "南洋女人": {
+    "name": "南洋女人",
+    "aliases": [
+      "南洋女人"
+    ],
+    "attributes": []
+  },
+  "古风铃": {
+    "name": "古风铃",
+    "aliases": [
+      "古风铃"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "诗人",
+        "evidence": "和新近冒出来的“第五代”诗人古风铃"
+      },
+      {
+        "key": "occupation",
+        "value": "青年诗人",
+        "evidence": "但她早已崇拜这位在全国有影响的青年诗人。"
+      },
+      {
+        "key": "occupation",
+        "value": "《山丹丹》编辑部的诗歌组长",
+        "evidence": "古风铃是《山丹丹》编辑部的诗歌组长"
+      },
+      {
+        "key": "occupation",
+        "value": "现代派诗人",
+        "evidence": "一位是省作协《山丹丹》编辑部的现代派诗人古风铃。"
+      }
+    ]
+  },
+  "司机": {
+    "name": "司机",
+    "aliases": [
+      "司机"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "司机",
+        "evidence": "司机听见售票员的喊叫声，立刻把车停下来，并且跳出驾驶室，绕后门挤进车内，大声喊：“捣乱分子在哪里？”"
+      }
+    ]
+  },
+  "向前妈": {
+    "name": "向前妈",
+    "aliases": [
+      "向前妈"
+    ],
+    "attributes": []
+  },
+  "吴书记": {
+    "name": "吴书记",
+    "aliases": [
+      "吴书记"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省委书记",
+        "evidence": "贾冰谦虚而拘谨地向省委书记点了点头"
+      }
+    ]
+  },
+  "吴仲平": {
+    "name": "吴仲平",
+    "aliases": [
+      "仲平",
+      "吴仲平"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "平时这人不多说话，但考试常和她不相上下，也是班上的学习尖子。"
+      },
+      {
+        "key": "traits",
+        "value": "质朴",
+        "evidence": "虽然听说他是干部子弟，但人很质朴，常一身随随便便的衣服。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "他是校足球队的前锋。"
+      },
+      {
+        "key": "occupation",
+        "value": "大学学生",
+        "evidence": "同学们已逐渐发现他们两个关系要好。在班上，几乎所有的女生都分别有比一般人关系更要好的男生。这在大学的环境是很正常的。"
+      },
+      {
+        "key": "traits",
+        "value": "十足的球迷",
+        "evidence": "但她的朋友吴仲平（现在可以这样称呼他们的关系了）却是个十足的球迷。"
+      },
+      {
+        "key": "occupation",
+        "value": "工大学生",
+        "evidence": "因为是星期六，吴仲平从工大回家来住宿。"
+      }
+    ]
+  },
+  "吴克俭": {
+    "name": "吴克俭",
+    "aliases": [
+      "吴克俭"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "民政方面的负责人",
+        "evidence": "民政方面的负责人吴克俭赶忙回答说：“我们一定把这事办好！”"
+      }
+    ]
+  },
+  "吴斌": {
+    "name": "吴斌",
+    "aliases": [
+      "吴斌"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省委常务副书记",
+        "evidence": "他为此曾专门来过一次省里，分别找省委管组织的副书记石钟和省委常务副书记吴斌谈过他的意见；"
+      },
+      {
+        "key": "occupation",
+        "value": "省委副书记",
+        "evidence": "省委常务副秘书长张生民带着省委两位副书记吴斌和石钟来办事处看他。"
+      },
+      {
+        "key": "occupation",
+        "value": "省委常务副书记、省纪委书记",
+        "evidence": "同时兼任省纪委书记的省委常务副书记吴斌"
+      },
+      {
+        "key": "occupation",
+        "value": "省纪委书记",
+        "evidence": "同时兼任省纪委书记的省委常务副书记吴斌"
+      },
+      {
+        "key": "occupation",
+        "value": "省委正副书记",
+        "evidence": "到时省委正副书记乔伯年、吴斌、石钟和省长汪昭义都要和他们一起去北京参加这个汇报会。"
+      },
+      {
+        "key": "occupation",
+        "value": "常务副书记",
+        "evidence": "然后，他又用电话把常务副书记吴斌从床上叫起来，让他准备一块紧急飞往南部那个处于危难的城市。"
+      },
+      {
+        "key": "occupation",
+        "value": "副书记",
+        "evidence": "副局长不敢顶撞副书记，只好一边嘟嘟着，一边提前准备这顿她不乐意的晚餐去了。"
+      },
+      {
+        "key": "occupation",
+        "value": "省委书记",
+        "evidence": "吴斌听说是这事，便顺手从文件堆里翻出一份材料，说："
+      },
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "众人大笑之后，黑老接着恭维了一番吴书记"
+      }
+    ]
+  },
+  "周县长": {
+    "name": "周县长",
+    "aliases": [
+      "周县长"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "县长",
+        "evidence": "刘根民放下话筒，咧开嘴笑着说：“你回去给少安传话，到时周县长要亲自来参加他砖场的点火仪式哩！”"
+      }
+    ]
+  },
+  "周总理": {
+    "name": "周总理",
+    "aliases": [
+      "周总理"
+    ],
+    "attributes": []
+  },
+  "周恩来": {
+    "name": "周恩来",
+    "aliases": [
+      "周恩来"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "国务院总理",
+        "evidence": "中华人民共和国国务院总理周恩来同志"
+      }
+    ]
+  },
+  "周文龙": {
+    "name": "周文龙",
+    "aliases": [
+      "周文龙",
+      "文龙"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "柳岔公社革委会主任",
+        "evidence": "周文龙同志保持农民身份，但同时担任柳岔公社革委会主任。"
+      },
+      {
+        "key": "occupation",
+        "value": "公社书记",
+        "evidence": "文龙是冯世宽最看重的公社书记。"
+      },
+      {
+        "key": "occupation",
+        "value": "柳岔公社主任",
+        "evidence": "据说柳岔公社主任在电话上把他们的行为反映了"
+      },
+      {
+        "key": "occupation",
+        "value": "公社主任",
+        "evidence": "迎面碰上了柳岔公社主任周文龙"
+      },
+      {
+        "key": "occupation",
+        "value": "县上的领导",
+        "evidence": "李登云、张有智、马国雄、白明川、周文龙等县上的领导就都相跟着来了。"
+      },
+      {
+        "key": "occupation",
+        "value": "县长",
+        "evidence": "副书记兼县长"
+      },
+      {
+        "key": "occupation",
+        "value": "正县长",
+        "evidence": "尽管周文龙是正县长，但他决不会去找他。"
+      }
+    ]
+  },
+  "呼专员": {
+    "name": "呼专员",
+    "aliases": [
+      "呼专员"
+    ],
+    "attributes": []
+  },
+  "呼正文": {
+    "name": "呼正文",
+    "aliases": [
+      "呼正文",
+      "正文"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "地区分管组织工作的副主任",
+        "evidence": "地区分管组织工作的副主任呼正文提出不同意见"
+      },
+      {
+        "key": "occupation",
+        "value": "地委管组织工作的副书记",
+        "evidence": "地委管组织工作的副书记呼正文来省里开会时曾看过他两次"
+      },
+      {
+        "key": "occupation",
+        "value": "行署专员",
+        "evidence": "原地委副书记呼正文接替了他的行署专员职务"
+      },
+      {
+        "key": "occupation",
+        "value": "专员",
+        "evidence": "另外，上个月他曾和专员呼正文坐飞机到北京跑了一趟"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原地委书记",
+        "evidence": "田福军同时又在市火柴厂给黄原地委书记呼正文挂了个电话"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原新任地委书记",
+        "evidence": "黄原新任地委书记呼正文一上任，第一个重大的人事变动就是改换原西县委书记。"
+      }
+    ]
+  },
+  "哥哥": {
+    "name": "哥哥",
+    "aliases": [
+      "哥哥"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "砖瓦厂承包者",
+        "evidence": "哥哥已经承包了石圪节乡的砖瓦厂"
+      }
+    ]
+  },
+  "售票员": {
+    "name": "售票员",
+    "aliases": [
+      "售票员"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "售票员",
+        "evidence": "“为什么不间隔时间一辆一辆放车？这样不是更好一些吗？” “为什么你嘴这么多？”售票员斜瞪了乔伯年一眼。"
+      }
+    ]
+  },
+  "地委书记": {
+    "name": "地委书记",
+    "aliases": [
+      "地委书记"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "地委书记",
+        "evidence": "地委书记随后赶到了播音室，利用这个空隙起草了第一号命令；接着便由他直接在广播上向市民宣读。"
+      }
+    ]
+  },
+  "外星人": {
+    "name": "外星人",
+    "aliases": [
+      "外星人"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "同情",
+        "evidence": "我们同情你，就用我们的方法让你看见她。"
+      }
+    ]
+  },
+  "外祖父": {
+    "name": "外祖父",
+    "aliases": [
+      "外祖父"
+    ],
+    "attributes": []
+  },
+  "外科值班大夫": {
+    "name": "外科值班大夫",
+    "aliases": [
+      "外科值班大夫"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "外科值班大夫",
+        "evidence": "外科值班大夫才来了。"
+      }
+    ]
+  },
+  "大夫的丈夫": {
+    "name": "大夫的丈夫",
+    "aliases": [
+      "大夫的丈夫"
+    ],
+    "attributes": []
+  },
+  "大嫂": {
+    "name": "大嫂",
+    "aliases": [
+      "大嫂"
+    ],
+    "attributes": []
+  },
+  "女大夫": {
+    "name": "女大夫",
+    "aliases": [
+      "女大夫"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "大夫",
+        "evidence": "万般焦灼的孙少平首先想到了那位量血压的大夫。"
+      }
+    ]
+  },
+  "女孩子": {
+    "name": "女孩子",
+    "aliases": [
+      "女孩子"
+    ],
+    "attributes": []
+  },
+  "她": {
+    "name": "她",
+    "aliases": [
+      "她"
+    ],
+    "attributes": []
+  },
+  "她二妈": {
+    "name": "她二妈",
+    "aliases": [
+      "她二妈"
+    ],
+    "attributes": []
+  },
+  "妈": {
+    "name": "妈",
+    "aliases": [
+      "妈"
+    ],
+    "attributes": []
+  },
+  "妈妈": {
+    "name": "妈妈",
+    "aliases": [
+      "妈妈"
+    ],
+    "attributes": []
+  },
+  "姐夫": {
+    "name": "姐夫",
+    "aliases": [
+      "姐夫"
+    ],
+    "attributes": []
+  },
+  "姚旺林": {
+    "name": "姚旺林",
+    "aliases": [
+      "姚旺林"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副专员",
+        "evidence": "现已被提拔为副专员的原农业局副局长姚旺林"
+      }
+    ]
+  },
+  "姚淑芳": {
+    "name": "姚淑芳",
+    "aliases": [
+      "姚淑芳",
+      "淑芳"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "教师",
+        "evidence": "咱们村两个教师，一个是地主家的儿媳妇姚淑芳"
+      },
+      {
+        "key": "occupation",
+        "value": "公派教师",
+        "evidence": "她属于公派教师"
+      },
+      {
+        "key": "traits",
+        "value": "很自爱的人，无论公事还是私事，都做得干干练练，无可挑剔",
+        "evidence": "她是一个很自爱的人，无论公事还是私事，都做得干干练练，无可挑剔"
+      },
+      {
+        "key": "occupation",
+        "value": "老师",
+        "evidence": "姚老师是个有文化知识的人"
+      }
+    ]
+  },
+  "婆婆": {
+    "name": "婆婆",
+    "aliases": [
+      "婆婆"
+    ],
+    "attributes": []
+  },
+  "嫂子": {
+    "name": "嫂子",
+    "aliases": [
+      "嫂子"
+    ],
+    "attributes": []
+  },
+  "孙兰香": {
+    "name": "孙兰香",
+    "aliases": [
+      "兰香",
+      "孙兰香"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "懂事",
+        "evidence": "由于家境贫困，她从小就很懂事"
+      },
+      {
+        "key": "traits",
+        "value": "脑子反应很快",
+        "evidence": "这孩子脑子反应很快"
+      },
+      {
+        "key": "traits",
+        "value": "在数学方面很有些天资",
+        "evidence": "在数学方面很有些天资"
+      },
+      {
+        "key": "occupation",
+        "value": "初中学生",
+        "evidence": "现在她已经到石圪节上了初中"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "那两年，他就像后来的少平和现在的兰香一样，每天下午回家，第二天早上天不明就起身，带一顿干粮，和其他娃娃摸黑赶到石圪节"
+      },
+      {
+        "key": "status",
+        "value": "穷家薄业/可怜的穷家",
+        "evidence": "就知道她的家是个可怜的穷家。"
+      },
+      {
+        "key": "traits",
+        "value": "头脑特别聪颖",
+        "evidence": "这个看起来平平常常的孩子，头脑倒特别聪颖"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "尽管穿戴破烂，面有菜色"
+      },
+      {
+        "key": "traits",
+        "value": "有毅力",
+        "evidence": "她是个有毅力的姑娘，决心要像大哥说的那样，学成个样子来。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "就连上高中的妹妹，也是很艰难的。"
+      },
+      {
+        "key": "traits",
+        "value": "有抱负",
+        "evidence": "原西县高中每年都有几十名学生进入大学门，这无疑极大地刺激了像她这样有抱负的青年。"
+      },
+      {
+        "key": "traits",
+        "value": "生性不爱涂脂抹粉",
+        "evidence": "一方面她生性不爱涂脂抹粉"
+      },
+      {
+        "key": "occupation",
+        "value": "大学生",
+        "evidence": "女儿上了大学"
+      },
+      {
+        "key": "hometown",
+        "value": "农村",
+        "evidence": "我们也不会忘记，她提着那个小筐筐，怎样用小手给家里捡拾烧饭的柴禾"
+      },
+      {
+        "key": "occupation",
+        "value": "大学学生",
+        "evidence": "同学们已逐渐发现他们两个关系要好。在班上，几乎所有的女生都分别有比一般人关系更要好的男生。这在大学的环境是很正常的。"
+      },
+      {
+        "key": "hometown",
+        "value": "家乡那些土圪崂",
+        "evidence": "来大学之前，在家乡那些土圪崂里连肚子都吃不饱，谁还关心这种事呢！"
+      },
+      {
+        "key": "hometown",
+        "value": "双水村",
+        "evidence": "感情却仍然紧密地和北方那个荒凉的小山村联结在一起。她像她二哥一样，经常会带着无比温暖的感情想起亲爱的双水村"
+      },
+      {
+        "key": "traits",
+        "value": "天资和刻苦精神",
+        "evidence": "是因为她的天资和刻苦精神，才使她来到这个令人瞩目的大学"
+      },
+      {
+        "key": "occupation",
+        "value": "实习生",
+        "evidence": "“兰香不是到四川西昌实习去了吗？你不知道？”"
+      }
+    ]
+  },
+  "孙卫红": {
+    "name": "孙卫红",
+    "aliases": [
+      "卫红",
+      "孙卫红"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "深明大义",
+        "evidence": "他为孙玉亭的女儿如此深明大义而感动不已"
+      }
+    ]
+  },
+  "孙少安": {
+    "name": "孙少安",
+    "aliases": [
+      "孙少安",
+      "少安"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "庄稼人",
+        "evidence": "已经是一个成熟庄稼人的孙少安"
+      },
+      {
+        "key": "occupation",
+        "value": "生产队长",
+        "evidence": "可是少安当个生产队长，没什么空子。"
+      },
+      {
+        "key": "occupation",
+        "value": "一队队长",
+        "evidence": "尤其是他们家当着一队队长的孙少安"
+      },
+      {
+        "key": "occupation",
+        "value": "生产队社员",
+        "evidence": "他此刻正跪在米家镇兽医站这个简易牲口棚里，手忙脚乱地给生产队的病牛灌汤药"
+      },
+      {
+        "key": "occupation",
+        "value": "给队里的牛看病",
+        "evidence": "我是双水村的，给队里的牛看病，天晚了，还没寻下个住处……"
+      },
+      {
+        "key": "occupation",
+        "value": "农村孩子",
+        "evidence": "他从此便开始了一个农村孩子的第一堂主课——劳动。"
+      },
+      {
+        "key": "status",
+        "value": "贫穷",
+        "evidence": "唉，在这穷困的农村，孩子们有什么玩具呢？"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "少安现在是农民，而她已经算是吃一碗公家饭了。"
+      },
+      {
+        "key": "occupation",
+        "value": "队长",
+        "evidence": "他也知道他在一队当队长。"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "难道贫困农民孙玉厚的小子，就能和这样的家庭联亲？"
+      },
+      {
+        "key": "traits",
+        "value": "痛苦，烦恼，迷茫",
+        "evidence": "痛苦，烦恼，迷茫，他的内心像洪水一般泛滥。"
+      },
+      {
+        "key": "traits",
+        "value": "有责任感",
+        "evidence": "我从十三岁开始和你一块撑扶这个家，我怎么能丢下这一群人呢？"
+      },
+      {
+        "key": "occupation",
+        "value": "副队长",
+        "evidence": "他只好对父亲说，他明天就起身去柳林。说完这话后，他就去找了副队长田福高，说他要出几天门，让福高把队里的事领料好"
+      },
+      {
+        "key": "occupation",
+        "value": "一队长",
+        "evidence": "除过一队长孙少安出门在外，村里所有负点责的人都来了。"
+      },
+      {
+        "key": "traits",
+        "value": "年轻力壮",
+        "evidence": "他年轻力壮，一年四季在山里挣命劳动"
+      },
+      {
+        "key": "occupation",
+        "value": "揽工小子",
+        "evidence": "唉，揽工小子还指望能住个啥好地方哩？"
+      },
+      {
+        "key": "occupation",
+        "value": "拉砖的",
+        "evidence": "他每天面对的是生活中的具体事——没有什么事是微不足道的。比如今天，他拉砖路过街道时"
+      },
+      {
+        "key": "occupation",
+        "value": "庄稼汉",
+        "evidence": "对于一个常常手无分文的庄稼汉来说，这一大笔钱揣在怀里，不免叫人有点惊恐！"
+      },
+      {
+        "key": "occupation",
+        "value": "开烧砖窑",
+        "evidence": "“你的同学孙少安怎么样？这小子开了烧砖窑，说不定赚下不少钱呢！”"
+      },
+      {
+        "key": "occupation",
+        "value": "冒尖户",
+        "evidence": "披红挂花的孙少安骑在马上，在一片洪水般的喧嚣和炮仗的爆炸声中"
+      },
+      {
+        "key": "occupation",
+        "value": "筹办砖瓦厂",
+        "evidence": "孙少安就雄心勃勃地开始筹办上砖瓦厂"
+      },
+      {
+        "key": "occupation",
+        "value": "砖厂经营者",
+        "evidence": "儿子已经买回来“机器”办砖厂"
+      },
+      {
+        "key": "occupation",
+        "value": "农民的后代",
+        "evidence": "“出路？”少安不由淡然一笑，“咱们农民的后代，出路只能在咱们的土地上。公家那碗饭咱们不好吃！”"
+      },
+      {
+        "key": "occupation",
+        "value": "砖场经营者",
+        "evidence": "但少安只能为难地婉言拒绝了这些上门求告的人。不是他不同情左邻右舍的困难处境，而是他实在无法满足他们的愿望。他虽然买了一台不大的制砖机，开了两个烧砖窑，但用不了多少人手。"
+      },
+      {
+        "key": "occupation",
+        "value": "新富翁",
+        "evidence": "他有点吃惊地看着少安，一直默不作声听双水村这位新富翁把话说完。"
+      },
+      {
+        "key": "occupation",
+        "value": "村民",
+        "evidence": "我村村民孙少安"
+      },
+      {
+        "key": "occupation",
+        "value": "创业者",
+        "evidence": "孙少安带着创业者的激情，一到河南巩县，立刻就办妥了制砖机的事。"
+      },
+      {
+        "key": "traits",
+        "value": "痛苦",
+        "evidence": "少安脸痛苦地抽搐着，不知是问秀莲，还是在问自己。"
+      },
+      {
+        "key": "status",
+        "value": "背了这么多账债，简直压得连气也透不过来了",
+        "evidence": "现在，他一下子背了这么多账债，简直压得连气也透不过来了！"
+      },
+      {
+        "key": "occupation",
+        "value": "前一队长",
+        "evidence": "金俊武一见孙少安，才吃惊地发现，前一队长已经被砖场的倒塌折磨得不成人样了。"
+      },
+      {
+        "key": "status",
+        "value": "欠一屁股账债，处于水深火热之中",
+        "evidence": "他现在欠一屁股账债，处于水深火热之中，熬煎得吃不下饭，睡不着觉。"
+      },
+      {
+        "key": "status",
+        "value": "破产",
+        "evidence": "我们不可能再给一个不仅无偿还能力，而且还破了产的人贷款！"
+      },
+      {
+        "key": "status",
+        "value": "破产、窘境、债务沉重",
+        "evidence": "孙少安破产以后，眼看着过了一年的时光，仍然还没有从窘境中走出来。"
+      },
+      {
+        "key": "traits",
+        "value": "情绪低落、精神状态不好",
+        "evidence": "一年来，孙少安的精神状态一直不好。他的情绪低落到了极点。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民企业家",
+        "evidence": "几天以后，少安就一身“农民企业家”的装扮"
+      },
+      {
+        "key": "occupation",
+        "value": "农民个体企业主",
+        "evidence": "现在成了全石圪节乡最引人注目的农民个体企业。"
+      },
+      {
+        "key": "occupation",
+        "value": "乡砖瓦厂厂长",
+        "evidence": "在石圪节全乡各村农民一片议论声中，孙少安走马上任，当了乡砖瓦厂厂长。"
+      },
+      {
+        "key": "traits",
+        "value": "讲义气",
+        "evidence": "他向来是个讲义气的人！"
+      },
+      {
+        "key": "occupation",
+        "value": "砖瓦厂主",
+        "evidence": "反正这是他的砖瓦厂，他情愿让谁来干活哩！"
+      },
+      {
+        "key": "traits",
+        "value": "不甘心寂寞无闻，产生了强烈的出人头地的欲望",
+        "evidence": "自身长期社会地位的低下，又使他们不甘心寂寞无闻，产生了强烈的出人头地的欲望"
+      },
+      {
+        "key": "occupation",
+        "value": "万元户",
+        "evidence": "现在有多少国营单位和一些响马式的干部，用“赞助”、“合资”一类的诱饵来套弄像他这样的一些浅薄的“万元户”！"
+      },
+      {
+        "key": "occupation",
+        "value": "财主",
+        "evidence": "据有人估计，他足可以和著名的财主孙少安一争高低。"
+      },
+      {
+        "key": "occupation",
+        "value": "年轻庄稼人",
+        "evidence": "一种使命感强烈地震撼了这个年轻庄稼人的心，使他浑身不由滚过了一道激奋的战栗！"
+      },
+      {
+        "key": "occupation",
+        "value": "村民委员会主任",
+        "evidence": "孙少安接替金俊山出任了村民委员会主任。"
+      }
+    ]
+  },
+  "孙少平": {
+    "name": "孙少平",
+    "aliases": [
+      "孙少平",
+      "少平"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "他们都是刚刚从各公社中学毕业后，被推荐来县城上高中的。"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "看他那一身可怜的穿戴想必也只能吃这种伙食。"
+      },
+      {
+        "key": "traits",
+        "value": "自卑、过分自尊、对家境好的同学有变态的对立情绪",
+        "evidence": "他在眼前的环境中是自卑的。而贫困又使他过分地自尊。他常常感到别人在嘲笑他的寒酸，因此对一切家境好的同学内心中有一种变态的对立情绪。"
+      },
+      {
+        "key": "status",
+        "value": "贫困农民的儿子",
+        "evidence": "对于一个贫困农民的儿子来说，这本身就是一件多么了不起的事啊！"
+      },
+      {
+        "key": "occupation",
+        "value": "农村孩子",
+        "evidence": "他从此便开始了一个农村孩子的第一堂主课——劳动。"
+      },
+      {
+        "key": "status",
+        "value": "贫穷",
+        "evidence": "他那虽然贫穷但充满无限欢乐的日月过去了。"
+      },
+      {
+        "key": "status",
+        "value": "家里又顿顿是稀饭，没一点像样的干粮",
+        "evidence": "家里又顿顿是稀饭，没一点像样的干粮。"
+      },
+      {
+        "key": "status",
+        "value": "他们家本来就已经吃了上顿没下顿",
+        "evidence": "他们家本来就已经吃了上顿没下顿"
+      },
+      {
+        "key": "occupation",
+        "value": "小学学生",
+        "evidence": "他和润叶一个班，并且坐一张课桌。"
+      },
+      {
+        "key": "status",
+        "value": "穿戴最破烂",
+        "evidence": "但也是全校穿戴最破烂的一个。"
+      },
+      {
+        "key": "status",
+        "value": "家里饭不够吃",
+        "evidence": "有时候，家里饭不够吃，他就饿着肚子来到学校。"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "弟弟少平也在村里上了学"
+      },
+      {
+        "key": "traits",
+        "value": "活跃",
+        "evidence": "他渐渐在班上变得活跃起来：在宿舍给同学们讲故事；学习讨论时，他也敢大胆发言，而且口齿流利，说得头头是道。"
+      },
+      {
+        "key": "occupation",
+        "value": "劳动干事",
+        "evidence": "在上学期中选班干部的时候，他被选成了“劳动干事”。"
+      },
+      {
+        "key": "status",
+        "value": "穷得只有一孔土窑洞",
+        "evidence": "少平一家人都在农村受苦，穷得只有一孔土窑洞"
+      },
+      {
+        "key": "traits",
+        "value": "冷静",
+        "evidence": "少平虽然和金波同岁，此刻心中又火烧火燎，但还是比他的朋友冷静一些。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "李主任那么高的位置，我是个农民"
+      },
+      {
+        "key": "occupation",
+        "value": "团支部委员",
+        "evidence": "这半年不光担任劳动干事，还被选成班上管宣传的团支部委员"
+      },
+      {
+        "key": "status",
+        "value": "家庭贫困",
+        "evidence": "一想起家庭的贫困和自己生活的寒酸，他心里仍然发慌。"
+      },
+      {
+        "key": "occupation",
+        "value": "中学生",
+        "evidence": "晓霞告诉他，她父亲说过，一个中学生就要开始养成每天看报的习惯"
+      },
+      {
+        "key": "traits",
+        "value": "爱读书",
+        "evidence": "我看你爱读书，但不要光看小说，还要看一点其他书"
+      },
+      {
+        "key": "traits",
+        "value": "爱看书",
+        "evidence": "他后来又慢慢琢磨，才意识到，除过性格以外，最主要的是这人爱看书。"
+      },
+      {
+        "key": "occupation",
+        "value": "教师",
+        "evidence": "他哥家的少平也能到学校去教书"
+      },
+      {
+        "key": "status",
+        "value": "家里光景依旧很不景气",
+        "evidence": "他家里的光景依旧很不景气。"
+      },
+      {
+        "key": "status",
+        "value": "贫困的家庭",
+        "evidence": "在他返回农村以后，仍然不嫌弃他贫困的家庭"
+      },
+      {
+        "key": "occupation",
+        "value": "农民的儿子",
+        "evidence": "他归根结底是农民的儿子，深知自己在这个天地里所处的地位。"
+      },
+      {
+        "key": "occupation",
+        "value": "老师",
+        "evidence": "金三锤倒立刻亲热而尊敬地拉过来一个凳子，说：“孙老师，你快坐！”"
+      },
+      {
+        "key": "occupation",
+        "value": "教书",
+        "evidence": "要不是少平教书有两个补贴"
+      },
+      {
+        "key": "occupation",
+        "value": "揽工汉",
+        "evidence": "他看见，每当一个穿油污的卡衫的包工头，嘴里噙着黑棒烟来到大桥头的时候，很快就被一群揽工汉包围了。"
+      },
+      {
+        "key": "traits",
+        "value": "勇敢",
+        "evidence": "你知道，幸福不仅仅是吃饱穿暖，而是勇敢地去战胜困难……"
+      },
+      {
+        "key": "occupation",
+        "value": "揽工",
+        "evidence": "到黄原来揽工"
+      },
+      {
+        "key": "hometown",
+        "value": "原西县石圪节公社双水村",
+        "evidence": "我是原西县石圪节公社双水村的"
+      },
+      {
+        "key": "occupation",
+        "value": "上过高中",
+        "evidence": "“为什么？你不是上过高中吗？”"
+      },
+      {
+        "key": "occupation",
+        "value": "小工",
+        "evidence": "我引来个小工，不知你这里要不要人了？"
+      },
+      {
+        "key": "occupation",
+        "value": "揽工小子",
+        "evidence": "他现在是个揽工小子，怎么能去找她呢！"
+      },
+      {
+        "key": "occupation",
+        "value": "做活",
+        "evidence": "我在阳沟给人家做活……刚结工。"
+      },
+      {
+        "key": "traits",
+        "value": "年轻力壮",
+        "evidence": "他年轻力壮，只要心里攒上劲，这个目标是可以实现的。"
+      },
+      {
+        "key": "status",
+        "value": "在社会的最底层挣扎，为了几个钱而受尽折磨",
+        "evidence": "他是在社会的最底层挣扎，为了几个钱而受尽折磨"
+      },
+      {
+        "key": "traits",
+        "value": "热爱自己的苦难",
+        "evidence": "他现在倒很“热爱”自己的苦难。"
+      },
+      {
+        "key": "occupation",
+        "value": "农村学生",
+        "evidence": "她似乎认定，孙少平最终不会逃脱大多数农村学生的命运"
+      },
+      {
+        "key": "occupation",
+        "value": "揽短工",
+        "evidence": "少平就难为情地用手背揩了揩眼睛，告诉说他是来黄原揽短工的。"
+      },
+      {
+        "key": "occupation",
+        "value": "揽短工的",
+        "evidence": "告诉说他是来黄原揽短工的"
+      },
+      {
+        "key": "traits",
+        "value": "吃苦",
+        "evidence": "他在工地上拼命干活，以此证明他是个好小工。"
+      },
+      {
+        "key": "occupation",
+        "value": "揽工的",
+        "evidence": "少平是揽工的，谁知他在什么地方"
+      },
+      {
+        "key": "occupation",
+        "value": "农民的后代",
+        "evidence": "“出路？”少安不由淡然一笑，“咱们农民的后代，出路只能在咱们的土地上。公家那碗饭咱们不好吃！”"
+      },
+      {
+        "key": "occupation",
+        "value": "工人",
+        "evidence": "孙少平很晚才从小南河的岸边回到他做活的南关柴油机厂。"
+      },
+      {
+        "key": "occupation",
+        "value": "柴油机厂干活",
+        "evidence": "听晓霞说你在柴油机厂干活，已经要结束。"
+      },
+      {
+        "key": "occupation",
+        "value": "夏令营的辅导员",
+        "evidence": "孙少平的确很胜任这个夏令营的辅导员。"
+      },
+      {
+        "key": "occupation",
+        "value": "煤矿工人",
+        "evidence": "“这样说，你不愿意我一辈子是个煤矿工人？”少平笑着问她。"
+      },
+      {
+        "key": "occupation",
+        "value": "被招工的",
+        "evidence": "你这副样子，是凭什么被招工的？"
+      },
+      {
+        "key": "status",
+        "value": "寒酸",
+        "evidence": "是的，他太寒酸了，一身旧衣服，一只破提包，竟连一床起码的铺盖也没有。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中毕业",
+        "evidence": "上过。高中毕业，在农村教过书。"
+      },
+      {
+        "key": "occupation",
+        "value": "矿工",
+        "evidence": "“煤矿虽然苦一些，但我不怕这地方苦。我多么希望能在这里劳动。”"
+      },
+      {
+        "key": "hometown",
+        "value": "农村",
+        "evidence": "“我家几辈子都是农民。”"
+      },
+      {
+        "key": "occupation",
+        "value": "新工人",
+        "evidence": "在以后紧接着的日子里，矿上先组织新工人集中学习"
+      },
+      {
+        "key": "traits",
+        "value": "有出息",
+        "evidence": "证明他孙少平决不是一个没出息的人！"
+      },
+      {
+        "key": "occupation",
+        "value": "采五的",
+        "evidence": "“采五的。”少平说。"
+      },
+      {
+        "key": "traits",
+        "value": "平凡",
+        "evidence": "他，千百普通矿工中的一员，生活中极其平凡的角色"
+      },
+      {
+        "key": "traits",
+        "value": "狂放",
+        "evidence": "孙少平狂放地说着，脸上泪流满面，却仰起头大笑了。"
+      },
+      {
+        "key": "occupation",
+        "value": "正式工人",
+        "evidence": "本来，他成了一名正式工人，对自己的生活已经够满足了；"
+      },
+      {
+        "key": "occupation",
+        "value": "掏炭小子",
+        "evidence": "你，一个掏炭小子，怎么能和那个叫高朗的记者相匹敌？"
+      },
+      {
+        "key": "occupation",
+        "value": "徒弟",
+        "evidence": "她死去丈夫的这个徒弟"
+      },
+      {
+        "key": "occupation",
+        "value": "掏炭的男人",
+        "evidence": "时时想念我那“掏炭的男人”。"
+      },
+      {
+        "key": "occupation",
+        "value": "班长",
+        "evidence": "孙少平出人意料地被提拔为班长"
+      },
+      {
+        "key": "occupation",
+        "value": "老工人",
+        "evidence": "他不怕这些人，因为他也是老工人了；井下掌子面上的任何活，他都能拿得起放得下。"
+      },
+      {
+        "key": "occupation",
+        "value": "采煤班长",
+        "evidence": "没有人再把这“成绩”和一个叫孙少平的采煤班长联系起来。"
+      },
+      {
+        "key": "traits",
+        "value": "多愁善感",
+        "evidence": "噢，他现在看起来不像个煤矿工人，倒像个多愁善感的诗人！"
+      },
+      {
+        "key": "occupation",
+        "value": "青年突击手",
+        "evidence": "几天以后，他便以“青年突击手”的身份，到铜城去参加了那个表彰大会"
+      },
+      {
+        "key": "occupation",
+        "value": "协议工",
+        "evidence": "把老坑里爬起来的那个协议工扇了一记耳光"
+      },
+      {
+        "key": "occupation",
+        "value": "和煤炭打交道",
+        "evidence": "他说他也许一辈子可能和煤炭打交道。"
+      }
+    ]
+  },
+  "孙玉亭": {
+    "name": "孙玉亭",
+    "aliases": [
+      "孙玉亭",
+      "玉亭"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "工人",
+        "evidence": "在山西是太原钢厂当工人的二爸"
+      },
+      {
+        "key": "occupation",
+        "value": "会战指挥部副总指挥",
+        "evidence": "玉亭现在公社正看得起，让他当了会战指挥部的副总指挥"
+      },
+      {
+        "key": "status",
+        "value": "贫下中农",
+        "evidence": "哥，你不敢这样。咱们是贫下中农，毛主席号召的事，咱怎能不积极哩？"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "他突然发狠想供他弟弟上学。"
+      },
+      {
+        "key": "traits",
+        "value": "脑子还灵",
+        "evidence": "他看玉亭这娃娃脑子还灵——他已经在村里教冬书的金先生那里识了不少字。"
+      },
+      {
+        "key": "occupation",
+        "value": "大队党支部委员、农田基建队队长、贫下中农管理学校委员会主任",
+        "evidence": "玉亭是大队党支部委员、农田基建队队长、贫下中农管理学校委员会主任，一身三职，在村里也是一个人物。"
+      },
+      {
+        "key": "traits",
+        "value": "穷",
+        "evidence": "但话说回来，孙玉亭本人觉得，他现在穷是穷，倒也自有他活人的一番畅快。"
+      },
+      {
+        "key": "occupation",
+        "value": "副总指挥",
+        "evidence": "这使他这个副总指挥多少有点不光彩。"
+      },
+      {
+        "key": "occupation",
+        "value": "大队负责人",
+        "evidence": "俊山的老婆赶紧给这个大队负责人泡了一缸子茶水"
+      },
+      {
+        "key": "occupation",
+        "value": "大会发言人",
+        "evidence": "他大会发言的水平已名声在外，公社领导器重他"
+      },
+      {
+        "key": "occupation",
+        "value": "贫管会主任",
+        "evidence": "你是学校的贫管会主任嘛！"
+      },
+      {
+        "key": "traits",
+        "value": "庄严",
+        "evidence": "孙玉亭一路走，一路庄严地想"
+      },
+      {
+        "key": "traits",
+        "value": "不屈不挠的革命精神",
+        "evidence": "孙玉亭不屈不挠的革命精神往往能给田福堂很大的鼓舞"
+      },
+      {
+        "key": "traits",
+        "value": "贫穷而激进",
+        "evidence": "离不开这位贫穷而激进的革命家强有力的支持"
+      },
+      {
+        "key": "occupation",
+        "value": "爆破组带领者",
+        "evidence": "除过孙玉亭带领的爆破组外，村里的大人娃娃一律不准进沟。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "他难以在土炕上继续睡下去了，首先贺凤英就不能让他安宁，开始咒骂起了他："
+      },
+      {
+        "key": "traits",
+        "value": "关心国家大事",
+        "evidence": "在人们几乎忘记一切而发疯似的谋光景的时候，双水村恐怕只有玉亭一个人仍然在关心着“国家大事”。"
+      },
+      {
+        "key": "traits",
+        "value": "对“革命”一片赤诚",
+        "evidence": "孙玉亭可以说对“革命”一片赤诚——为了“革命”，玉亭可以置自己的吃穿而不顾，把头碰破都乐而为之"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "他还是一副穷酸相，一身破烂衣服，胸前的纽扣还是缺三掉四"
+      },
+      {
+        "key": "traits",
+        "value": "关心政治",
+        "evidence": "如此关心“政治”的人，至少在东拉河一带的农村实属罕见！"
+      },
+      {
+        "key": "occupation",
+        "value": "副支书",
+        "evidence": "玉亭同志不但没有退到“二线”，反而由支部委员升成了副支书。"
+      },
+      {
+        "key": "occupation",
+        "value": "共产党员",
+        "evidence": "共产党员孙玉亭激愤地自己掏钱买车票跑到县上把这些“牛鬼蛇神”告了一状。"
+      },
+      {
+        "key": "occupation",
+        "value": "支部副书记",
+        "evidence": "支部副书记孙玉亭现在仍然拖拉着破鞋马不停蹄四处跑着张罗"
+      }
+    ]
+  },
+  "孙玉厚": {
+    "name": "孙玉厚",
+    "aliases": [
+      "孙玉厚",
+      "玉厚"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "他是个没本事的农民，不可能让孩子们在这世界上生活得更体面。"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "家里的光景还是像筛子一样到处是窟窿眼。"
+      },
+      {
+        "key": "status",
+        "value": "贫下中农",
+        "evidence": "哥，你不敢这样。咱们是贫下中农，毛主席号召的事，咱怎能不积极哩？"
+      },
+      {
+        "key": "occupation",
+        "value": "庄稼人",
+        "evidence": "在当时来说，玉厚算是庄稼人里很有魄力的。"
+      },
+      {
+        "key": "traits",
+        "value": "很有魄力",
+        "evidence": "在当时来说，玉厚算是庄稼人里很有魄力的。"
+      },
+      {
+        "key": "status",
+        "value": "老贫农",
+        "evidence": "孙玉厚是老贫农"
+      }
+    ]
+  },
+  "孙道临": {
+    "name": "孙道临",
+    "aliases": [
+      "孙道临"
+    ],
+    "attributes": []
+  },
+  "安锁子": {
+    "name": "安锁子",
+    "aliases": [
+      "安锁子"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "工人",
+        "evidence": "是前几年招收的工人"
+      },
+      {
+        "key": "occupation",
+        "value": "攉煤工",
+        "evidence": "作为老资格，虽说也是攉煤工"
+      },
+      {
+        "key": "occupation",
+        "value": "煤矿工人",
+        "evidence": "和他一块干活的安锁子，经常连裤子也不穿，光身子攉煤哩。"
+      },
+      {
+        "key": "traits",
+        "value": "变态似的发狂",
+        "evidence": "因此一听男欢女爱，就忍不住变态似的发狂。"
+      },
+      {
+        "key": "occupation",
+        "value": "徒弟",
+        "evidence": "王世才邀请跟他挂茬的两个徒弟去他家做客"
+      },
+      {
+        "key": "occupation",
+        "value": "斧子工",
+        "evidence": "说他要跟少平到二班去当斧子工"
+      },
+      {
+        "key": "occupation",
+        "value": "师兄",
+        "evidence": "他的师兄安锁子也卖命地帮助他。"
+      }
+    ]
+  },
+  "宣传部长": {
+    "name": "宣传部长",
+    "aliases": [
+      "宣传部长"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "宣传部长",
+        "evidence": "进来的是大牙湾煤矿的宣传部长，他来叫“田记者”吃饭。"
+      }
+    ]
+  },
+  "小亮亮": {
+    "name": "小亮亮",
+    "aliases": [
+      "亮亮",
+      "小亮亮"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "孩子",
+        "evidence": "他是个好动的孩子"
+      }
+    ]
+  },
+  "小伙子": {
+    "name": "小伙子",
+    "aliases": [
+      "小伙子"
+    ],
+    "attributes": []
+  },
+  "小女孩": {
+    "name": "小女孩",
+    "aliases": [
+      "小女孩"
+    ],
+    "attributes": []
+  },
+  "小明明": {
+    "name": "小明明",
+    "aliases": [
+      "小明明"
+    ],
+    "attributes": []
+  },
+  "小杨": {
+    "name": "小杨",
+    "aliases": [
+      "小杨"
+    ],
+    "attributes": []
+  },
+  "小王": {
+    "name": "小王",
+    "aliases": [
+      "小王"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "秘书",
+        "evidence": "他当时住在这个矿的招待所，又是半夜，只好把秘书小王喊醒，让他给自己找点药。"
+      }
+    ]
+  },
+  "小翠": {
+    "name": "小翠",
+    "aliases": [
+      "小翠"
+    ],
+    "attributes": [
+      {
+        "key": "hometown",
+        "value": "原北县",
+        "evidence": "“原北县来的。”"
+      },
+      {
+        "key": "status",
+        "value": "家庭贫困",
+        "evidence": "“我爸拉扯不了我们，就硬打发我出来了……”"
+      },
+      {
+        "key": "status",
+        "value": "贫困/家庭处境困难",
+        "evidence": "我们家五个娃娃，我是最大的。我爸拉扯不了我们，就硬打发我出来了……"
+      },
+      {
+        "key": "occupation",
+        "value": "做饭",
+        "evidence": "“提泥包还是做饭？”“还是做饭。”"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "“家里没钱了，我爸又骂又打，叫我出来做工……”"
+      }
+    ]
+  },
+  "小陈": {
+    "name": "小陈",
+    "aliases": [
+      "小陈"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "保姆",
+        "evidence": "保姆小陈给他沏了一杯茶。"
+      }
+    ]
+  },
+  "小黑子": {
+    "name": "小黑子",
+    "aliases": [
+      "小黑子"
+    ],
+    "attributes": []
+  },
+  "少安他奶": {
+    "name": "少安他奶",
+    "aliases": [
+      "少安他奶"
+    ],
+    "attributes": []
+  },
+  "少安奶": {
+    "name": "少安奶",
+    "aliases": [
+      "少安奶"
+    ],
+    "attributes": []
+  },
+  "少安妈": {
+    "name": "少安妈",
+    "aliases": [
+      "少安妈"
+    ],
+    "attributes": []
+  },
+  "尤里·纳吉宾": {
+    "name": "尤里·纳吉宾",
+    "aliases": [
+      "尤里·纳吉宾"
+    ],
+    "attributes": []
+  },
+  "市交通局长": {
+    "name": "市交通局长",
+    "aliases": [
+      "市交通局长"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "市交通局长",
+        "evidence": "市交通局长掏出圆珠笔，把刚才甩站的那辆四路车牌号记在了本子上，脸上的表情似乎说：哼，鬼子孙，等着瞧吧！"
+      }
+    ]
+  },
+  "市委书记": {
+    "name": "市委书记",
+    "aliases": [
+      "市委书记"
+    ],
+    "attributes": []
+  },
+  "市长": {
+    "name": "市长",
+    "aliases": [
+      "市长"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "市长",
+        "evidence": "他向该市市长口授了内容，让他赶快先去广播站。"
+      }
+    ]
+  },
+  "布兰特雷·马拉德": {
+    "name": "布兰特雷·马拉德",
+    "aliases": [
+      "布兰特雷·马拉德"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "记者",
+        "evidence": "〔美联社北京18日电记者：布兰特雷·马拉德〕"
+      }
+    ]
+  },
+  "师傅": {
+    "name": "师傅",
+    "aliases": [
+      "师傅"
+    ],
+    "attributes": []
+  },
+  "常有林": {
+    "name": "常有林",
+    "aliases": [
+      "常有林"
+    ],
+    "attributes": []
+  },
+  "弟弟": {
+    "name": "弟弟",
+    "aliases": [
+      "弟弟"
+    ],
+    "attributes": []
+  },
+  "弟弟少平": {
+    "name": "弟弟少平",
+    "aliases": [
+      "弟弟少平"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "教书",
+        "evidence": "弟弟少平还在村里教书，今年二十一岁，完全成了大人，只是比过去说话更少，放学后就闷着头干活；"
+      }
+    ]
+  },
+  "张主任": {
+    "name": "张主任",
+    "aliases": [
+      "张主任"
+    ],
+    "attributes": []
+  },
+  "张有智": {
+    "name": "张有智",
+    "aliases": [
+      "张有智"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "县革委会副主任",
+        "evidence": "田福军和另外一位县革委会副主任张有智一块相跟着"
+      },
+      {
+        "key": "occupation",
+        "value": "主任",
+        "evidence": "告诉田主任和张主任"
+      },
+      {
+        "key": "occupation",
+        "value": "副主任",
+        "evidence": "冯世宽主任走在前面；后面是副主任张有智和马国雄；再后面是几个常委和老资格中层领导。"
+      },
+      {
+        "key": "occupation",
+        "value": "县上的领导",
+        "evidence": "李登云、张有智、马国雄、白明川、周文龙等县上的领导就都相跟着来了。"
+      },
+      {
+        "key": "occupation",
+        "value": "县委书记",
+        "evidence": "县委书记张有智向来反感这类大哄大嗡"
+      },
+      {
+        "key": "occupation",
+        "value": "原西县委书记",
+        "evidence": "田福军把原西县委书记张有智留了下来"
+      },
+      {
+        "key": "occupation",
+        "value": "原西县县委书记",
+        "evidence": "胡永合并不知道，张有智同志已经不是原西县县委书记了。"
+      },
+      {
+        "key": "traits",
+        "value": "满腹牢骚，一腔怨气；不谋工作，只谋仕途",
+        "evidence": "其实，这个人老早就开始变了；变得满腹牢骚，一腔怨气；不谋工作，只谋仕途。"
+      },
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "张书记，听说你病了？"
+      }
+    ]
+  },
+  "张桂兰": {
+    "name": "张桂兰",
+    "aliases": [
+      "张桂兰",
+      "桂兰"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "盗窃犯",
+        "evidence": "县法院要在这里公判盗窃犯金富一家子"
+      },
+      {
+        "key": "status",
+        "value": "犯人",
+        "evidence": "犯人张桂兰被子蒙头，软瘫地躺在炕头上"
+      }
+    ]
+  },
+  "张生民": {
+    "name": "张生民",
+    "aliases": [
+      "张生民",
+      "生民"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省委常务副秘书长",
+        "evidence": "省委常务副秘书长张生民来了。"
+      },
+      {
+        "key": "occupation",
+        "value": "张秘书长",
+        "evidence": "张秘书长见省委书记赞同地点了点头"
+      },
+      {
+        "key": "occupation",
+        "value": "秘书长",
+        "evidence": "秘书长一着急，竟然自己先“露密”了。"
+      },
+      {
+        "key": "hometown",
+        "value": "山西",
+        "evidence": "生民也是山西人，他和苗凯是老乡"
+      },
+      {
+        "key": "occupation",
+        "value": "常务副秘书长",
+        "evidence": "省委接电话的是常务副秘书长张生民。"
+      }
+    ]
+  },
+  "徐主任": {
+    "name": "徐主任",
+    "aliases": [
+      "徐主任"
+    ],
+    "attributes": []
+  },
+  "徐国强": {
+    "name": "徐国强",
+    "aliases": [
+      "徐国强"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "老粗干部",
+        "evidence": "老岳父是个老粗干部，识字不多，一旦不工作，闲得很寂寞。"
+      },
+      {
+        "key": "traits",
+        "value": "孤独",
+        "evidence": "徐国强只能生活在自己孤独的世界里。"
+      },
+      {
+        "key": "occupation",
+        "value": "老共产党员",
+        "evidence": "他尽管是个老共产党员"
+      }
+    ]
+  },
+  "徐大夫": {
+    "name": "徐大夫",
+    "aliases": [
+      "徐大夫"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "大夫",
+        "evidence": "听说她在县医院当大夫"
+      }
+    ]
+  },
+  "徐大爷": {
+    "name": "徐大爷",
+    "aliases": [
+      "徐大爷"
+    ],
+    "attributes": []
+  },
+  "徐治功": {
+    "name": "徐治功",
+    "aliases": [
+      "徐治功",
+      "治功"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "公社副主任、会战总指挥",
+        "evidence": "会战总指挥是公社副主任徐治功，副总指挥是公社武装专干杨高虎。"
+      },
+      {
+        "key": "occupation",
+        "value": "总指挥",
+        "evidence": "今天下午收工时，总指挥徐治功对他说，晚上的批判会，各村都有批判对象，就是双水村没有。"
+      },
+      {
+        "key": "occupation",
+        "value": "公社副主任",
+        "evidence": "公社副主任徐治功"
+      },
+      {
+        "key": "occupation",
+        "value": "公社领导人",
+        "evidence": "使得这位四十来岁的公社领导人，眼睛里都布满了红丝。"
+      },
+      {
+        "key": "occupation",
+        "value": "公社主任",
+        "evidence": "现在，白主任和徐主任已经争吵起来了。"
+      },
+      {
+        "key": "occupation",
+        "value": "公社的领导",
+        "evidence": "现在，两位公社的领导人在办公室里谈论着这件事"
+      },
+      {
+        "key": "occupation",
+        "value": "副主任",
+        "evidence": "他们就马上向副主任徐治功紧急汇报了情况。"
+      },
+      {
+        "key": "occupation",
+        "value": "石圪节公社主任",
+        "evidence": "又据石圪节公社主任徐治功说，县上已经把“农业学大寨办公室”也撤销了。"
+      },
+      {
+        "key": "occupation",
+        "value": "主任",
+        "evidence": "徐主任正和公社民政专干下象棋。"
+      },
+      {
+        "key": "occupation",
+        "value": "石圪节公社书记",
+        "evidence": "这件事首先难倒了石圪节公社书记徐治功"
+      },
+      {
+        "key": "occupation",
+        "value": "领导干部",
+        "evidence": "你几十岁的人了，又是个领导干部，怎能这么不检点呢？"
+      },
+      {
+        "key": "occupation",
+        "value": "水电局局长",
+        "evidence": "而把他调回县里任了令人羡慕的水电局局长。"
+      },
+      {
+        "key": "occupation",
+        "value": "水电局长",
+        "evidence": "徐治功调回县里当了水电局长后，正好一个下属单位要修建十几孔窑洞，他就把这工程让以前的老相识田福堂承包了。"
+      },
+      {
+        "key": "occupation",
+        "value": "乡镇企业管理局局长",
+        "evidence": "徐主任——现在应该叫徐局长"
+      },
+      {
+        "key": "occupation",
+        "value": "县乡镇企业局局长",
+        "evidence": "县乡镇企业局局长徐治功"
+      }
+    ]
+  },
+  "徐爱云": {
+    "name": "徐爱云",
+    "aliases": [
+      "徐爱云",
+      "爱云"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "医生",
+        "evidence": "另一架是爱云的医学书籍。"
+      },
+      {
+        "key": "occupation",
+        "value": "医院工作",
+        "evidence": "他女儿徐爱云才从医院回来"
+      },
+      {
+        "key": "occupation",
+        "value": "县医院医生",
+        "evidence": "因为县医院工作繁忙，她住了一星期就带着女儿回去了。"
+      },
+      {
+        "key": "occupation",
+        "value": "妻子",
+        "evidence": "和爱云分别了一年多，他实在需要她的温暖和关照"
+      }
+    ]
+  },
+  "徐老": {
+    "name": "徐老",
+    "aliases": [
+      "徐老"
+    ],
+    "attributes": []
+  },
+  "徒弟": {
+    "name": "徒弟",
+    "aliases": [
+      "徒弟"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "铁匠",
+        "evidence": "那个抡大锤的徒弟就往那里砸去。"
+      }
+    ]
+  },
+  "惠英": {
+    "name": "惠英",
+    "aliases": [
+      "惠英"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "矿工的老婆",
+        "evidence": "像所有矿工的老婆一样，对男人关照的体贴入微"
+      },
+      {
+        "key": "occupation",
+        "value": "矿工的妻子",
+        "evidence": "她是我们班长的老婆！"
+      },
+      {
+        "key": "traits",
+        "value": "实心疼爱师傅，里外活都很麻利，人很精明，漂亮",
+        "evidence": "结婚后一直实心疼爱师傅。她出身农家，里外活都很麻利。虽然识字不多，可人很精明。至于漂亮，那在整个黑户区都是很出名的。"
+      }
+    ]
+  },
+  "惠英嫂": {
+    "name": "惠英嫂",
+    "aliases": [
+      "惠英嫂"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "正式工人",
+        "evidence": "被矿上录用为正式工人"
+      },
+      {
+        "key": "occupation",
+        "value": "矿灯房工人",
+        "evidence": "被安排到矿灯房去工作"
+      },
+      {
+        "key": "hometown",
+        "value": "河南",
+        "evidence": "她就准备带着明明回河南老家去"
+      },
+      {
+        "key": "status",
+        "value": "寡妇",
+        "evidence": "但这无疑给这个寡妇增加了生活下去的力量"
+      }
+    ]
+  },
+  "憨牛": {
+    "name": "憨牛",
+    "aliases": [
+      "憨牛"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "憨",
+        "evidence": "少安无法和田牛“商量”这件事，他索性把这个憨后生领到砖窑来干活了"
+      }
+    ]
+  },
+  "我": {
+    "name": "我",
+    "aliases": [
+      "我"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "文艺兵",
+        "evidence": "你知道，我是文艺兵，在师部文工团吹笛子。"
+      },
+      {
+        "key": "occupation",
+        "value": "军人",
+        "evidence": "部队纪律严，我们不能随便去那里"
+      }
+    ]
+  },
+  "护士": {
+    "name": "护士",
+    "aliases": [
+      "护士"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "护士",
+        "evidence": "急诊室只有一名值班护士。"
+      }
+    ]
+  },
+  "拐峁的书记": {
+    "name": "拐峁的书记",
+    "aliases": [
+      "拐峁的书记"
+    ],
+    "attributes": []
+  },
+  "撒切尔夫人": {
+    "name": "撒切尔夫人",
+    "aliases": [
+      "撒切尔夫人"
+    ],
+    "attributes": []
+  },
+  "明川": {
+    "name": "明川",
+    "aliases": [
+      "明川"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "市上负责这件事",
+        "evidence": "可明川在市上负责这件事，带着检查组来转了一下"
+      }
+    ]
+  },
+  "明明": {
+    "name": "明明",
+    "aliases": [
+      "明明"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "他说下午学校开什么运动会，其他孩子的家长都去喊‘加油’，硬缠着让我去。"
+      }
+    ]
+  },
+  "曹书记": {
+    "name": "曹书记",
+    "aliases": [
+      "曹书记"
+    ],
+    "attributes": []
+  },
+  "李主任": {
+    "name": "李主任",
+    "aliases": [
+      "李主任"
+    ],
+    "attributes": []
+  },
+  "李向前": {
+    "name": "李向前",
+    "aliases": [
+      "向前",
+      "李向前"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "汽车司机",
+        "evidence": "他是县贸易经理部的汽车司机，经常跑外面，因此知道许多省城和外省的事，给她说个没完。"
+      },
+      {
+        "key": "occupation",
+        "value": "司机",
+        "evidence": "在咱们山区，方向盘一转，给个县长也不换！"
+      },
+      {
+        "key": "occupation",
+        "value": "开车的",
+        "evidence": "“还有你的男朋友和我的男朋友！不过，你的男朋友可不是那个李向前！怎么样？没答应那个开车的吧？”"
+      },
+      {
+        "key": "occupation",
+        "value": "开汽车",
+        "evidence": "现在这小伙还开了汽车"
+      },
+      {
+        "key": "traits",
+        "value": "心肠并不坏",
+        "evidence": "但这个身体略嫌发胖的青年，心肠倒并不坏。"
+      },
+      {
+        "key": "traits",
+        "value": "本质上是个本分人",
+        "evidence": "李向前本质上是个本分人。"
+      },
+      {
+        "key": "status",
+        "value": "残废人",
+        "evidence": "后半生不用说，将成为一个残废人。"
+      },
+      {
+        "key": "occupation",
+        "value": "运输公司职工",
+        "evidence": "县运输公司对他又好"
+      },
+      {
+        "key": "status",
+        "value": "失去双腿",
+        "evidence": "一个人失去双腿意味着什么——从此之后，他的一生就被毁了"
+      },
+      {
+        "key": "occupation",
+        "value": "丈夫",
+        "evidence": "从此之后，家务就全由丈夫包揽了。"
+      },
+      {
+        "key": "status",
+        "value": "残疾/行动不便",
+        "evidence": "向前一只手撑着拐杖"
+      },
+      {
+        "key": "occupation",
+        "value": "钉鞋匠",
+        "evidence": "他现在就可以说是个出色的钉鞋匠了！"
+      }
+    ]
+  },
+  "李玉玲": {
+    "name": "李玉玲",
+    "aliases": [
+      "李玉玲"
+    ],
+    "attributes": []
+  },
+  "李登云": {
+    "name": "李登云",
+    "aliases": [
+      "李登云",
+      "登云"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "李主任",
+        "evidence": "因此李主任一直对徐老很尊敬。"
+      },
+      {
+        "key": "occupation",
+        "value": "管政工宣传",
+        "evidence": "可会一完，管政工宣传的李登云就完全按冯世宽的意见给各公社布置下去了。"
+      },
+      {
+        "key": "occupation",
+        "value": "副主任",
+        "evidence": "另一位副主任李登云同志正用手掌捂着自己的腮帮子"
+      },
+      {
+        "key": "occupation",
+        "value": "原西县的一把手",
+        "evidence": "三把手李登云同志就擢升为原西县的一把手了"
+      },
+      {
+        "key": "occupation",
+        "value": "县上的领导",
+        "evidence": "李登云、张有智、马国雄、白明川、周文龙等县上的领导就都相跟着来了。"
+      },
+      {
+        "key": "occupation",
+        "value": "卫生局长",
+        "evidence": "原“一把手”李登云在几个月前调到地区任了卫生局长。"
+      },
+      {
+        "key": "occupation",
+        "value": "地区卫生局长",
+        "evidence": "地区卫生局长现在一个人无所事事地立在他家三楼的阳台上"
+      },
+      {
+        "key": "occupation",
+        "value": "局长",
+        "evidence": "李局长这副模样"
+      }
+    ]
+  },
+  "杜丽丽": {
+    "name": "杜丽丽",
+    "aliases": [
+      "丽丽",
+      "杜丽丽"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "地区文化馆工作",
+        "evidence": "她突然想起她在黄原地区文化馆工作的同学杜丽丽。"
+      },
+      {
+        "key": "occupation",
+        "value": "《黄原文艺》的诗歌编辑",
+        "evidence": "杜正贤的女儿杜丽丽已经是《黄原文艺》的诗歌编辑"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委书记武惠良的妻子",
+        "evidence": "和团地委书记武惠良结婚到现在"
+      },
+      {
+        "key": "occupation",
+        "value": "诗人",
+        "evidence": "因为你成了诗人"
+      }
+    ]
+  },
+  "杜正贤": {
+    "name": "杜正贤",
+    "aliases": [
+      "杜正贤"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "地区文化局副局长",
+        "evidence": "杜正贤不是在地区文化局当副局长吗"
+      },
+      {
+        "key": "occupation",
+        "value": "地区文化局长",
+        "evidence": "著名老作家黑白由地区文化局长杜正贤和《黄原文艺》主编贾冰陪同，前来拜访田福军。"
+      },
+      {
+        "key": "occupation",
+        "value": "文化局长",
+        "evidence": "文化局长杜正贤"
+      }
+    ]
+  },
+  "杨高虎": {
+    "name": "杨高虎",
+    "aliases": [
+      "杨高虎",
+      "高虎"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "公社武装专干、副总指挥",
+        "evidence": "会战总指挥是公社副主任徐治功，副总指挥是公社武装专干杨高虎。"
+      },
+      {
+        "key": "occupation",
+        "value": "武装专干",
+        "evidence": "武装专干杨高虎"
+      },
+      {
+        "key": "occupation",
+        "value": "公社武装专干",
+        "evidence": "于是，他很快把公社武装专干杨高虎找来"
+      },
+      {
+        "key": "occupation",
+        "value": "副乡长",
+        "evidence": "石圪节原武装专干、现任副乡长杨高虎"
+      }
+    ]
+  },
+  "根民的表兄": {
+    "name": "根民的表兄",
+    "aliases": [
+      "根民的表兄"
+    ],
+    "attributes": []
+  },
+  "梅嫩德斯将军": {
+    "name": "梅嫩德斯将军",
+    "aliases": [
+      "梅嫩德斯将军"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "军事长官",
+        "evidence": "他们驻马尔维纳斯群岛的军事长官梅嫩德斯将军打起白旗"
+      }
+    ]
+  },
+  "武宏全": {
+    "name": "武宏全",
+    "aliases": [
+      "武宏全"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "办事处主任",
+        "evidence": "办事处主任武宏全进来请他们去吃午饭。"
+      },
+      {
+        "key": "occupation",
+        "value": "地区驻省会的办事处主任",
+        "evidence": "这位地区驻省会的办事处主任"
+      }
+    ]
+  },
+  "武得全": {
+    "name": "武得全",
+    "aliases": [
+      "武得全"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "地区人事局副局长",
+        "evidence": "他爸是地区人事局长"
+      },
+      {
+        "key": "occupation",
+        "value": "地区劳动人事局副局长",
+        "evidence": "武宏全是地区劳动人事局副局长武得全的哥哥"
+      },
+      {
+        "key": "occupation",
+        "value": "劳动局长",
+        "evidence": "劳动局长武得全"
+      }
+    ]
+  },
+  "武惠良": {
+    "name": "武惠良",
+    "aliases": [
+      "惠良",
+      "武惠良"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "团地委领导",
+        "evidence": "叫武惠良，是团地委领导"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委书记",
+        "evidence": "武惠良现在是团地委书记"
+      },
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "书记武惠良带着团地委各部门的人都去了。"
+      },
+      {
+        "key": "occupation",
+        "value": "行政领导",
+        "evidence": "武惠良虽说是个行政领导，但也读了不少书"
+      },
+      {
+        "key": "traits",
+        "value": "善良",
+        "evidence": "他是一个善良的人"
+      },
+      {
+        "key": "occupation",
+        "value": "县委书记",
+        "evidence": "地委已决定调他去润叶和向前家乡原西县去任县委书记。"
+      },
+      {
+        "key": "occupation",
+        "value": "原团地委书记",
+        "evidence": "任命原团地委书记武惠良为这个县的新任县委书记。"
+      },
+      {
+        "key": "occupation",
+        "value": "新任县委书记",
+        "evidence": "任命原团地委书记武惠良为这个县的新任县委书记。"
+      }
+    ]
+  },
+  "毛主席": {
+    "name": "毛主席",
+    "aliases": [
+      "毛主席"
+    ],
+    "attributes": []
+  },
+  "毛蛋": {
+    "name": "毛蛋",
+    "aliases": [
+      "毛蛋"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "老光棍",
+        "evidence": "尤其是一个叫毛蛋的老光棍，还殷勤地给她担水扫地"
+      },
+      {
+        "key": "traits",
+        "value": "老光棍",
+        "evidence": "她看见，老光棍毛蛋只穿件短裤，几乎裸着身子在给她锄地。"
+      }
+    ]
+  },
+  "永贵同志": {
+    "name": "永贵同志",
+    "aliases": [
+      "永贵同志"
+    ],
+    "attributes": []
+  },
+  "汪昭义": {
+    "name": "汪昭义",
+    "aliases": [
+      "汪昭义"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省长",
+        "evidence": "到时省委正副书记乔伯年、吴斌、石钟和省长汪昭义都要和他们一起去北京参加这个汇报会。"
+      }
+    ]
+  },
+  "河南人": {
+    "name": "河南人",
+    "aliases": [
+      "河南人"
+    ],
+    "attributes": []
+  },
+  "河南师傅": {
+    "name": "河南师傅",
+    "aliases": [
+      "河南师傅"
+    ],
+    "attributes": []
+  },
+  "洪常青": {
+    "name": "洪常青",
+    "aliases": [
+      "洪常青"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "大富翁",
+        "evidence": "说是南洋来的大富翁"
+      }
+    ]
+  },
+  "润叶姐": {
+    "name": "润叶姐",
+    "aliases": [
+      "润叶姐"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "公派教师",
+        "evidence": "他哥是农民，而润叶姐是公派教师"
+      }
+    ]
+  },
+  "润生哥": {
+    "name": "润生哥",
+    "aliases": [
+      "润生哥"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "农村来的许多学生气质太差劲，比如那个比我大三天的润生哥"
+      }
+    ]
+  },
+  "灵香": {
+    "name": "灵香",
+    "aliases": [
+      "灵香"
+    ],
+    "attributes": []
+  },
+  "热尼亚·鲁勉采娃": {
+    "name": "热尼亚·鲁勉采娃",
+    "aliases": [
+      "热尼亚·鲁勉采娃",
+      "鲁勉采娃"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "空军少校",
+        "evidence": "从无线电广播里听到授予空军少校鲁勉采娃以苏联英雄的称号"
+      }
+    ]
+  },
+  "燕子": {
+    "name": "燕子",
+    "aliases": [
+      "燕子"
+    ],
+    "attributes": []
+  },
+  "爸爸": {
+    "name": "爸爸",
+    "aliases": [
+      "爸爸"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "基建队",
+        "evidence": "说不定爸爸也在那里——因为他是基建队的。"
+      }
+    ]
+  },
+  "狗蛋": {
+    "name": "狗蛋",
+    "aliases": [
+      "狗蛋"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "儿童",
+        "evidence": "弟弟狗蛋已经八岁，还没有去上学，整天跟妈妈到山里拾柴打猪草，已经担负起了男子汉的责任！"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "儿子狗蛋爬在小桌上做作业。"
+      }
+    ]
+  },
+  "猫蛋": {
+    "name": "猫蛋",
+    "aliases": [
+      "猫蛋"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "小学学生",
+        "evidence": "已经在罐子村小学上二年级"
+      },
+      {
+        "key": "occupation",
+        "value": "小学二年级学生",
+        "evidence": "猫蛋已经十岁，在罐子村小学上二年级。"
+      },
+      {
+        "key": "occupation",
+        "value": "中学生",
+        "evidence": "石圪节上中学的猫蛋"
+      }
+    ]
+  },
+  "玉厚老汉": {
+    "name": "玉厚老汉",
+    "aliases": [
+      "玉厚老汉",
+      "老汉"
+    ],
+    "attributes": []
+  },
+  "王世才": {
+    "name": "王世才",
+    "aliases": [
+      "王世才"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "斧子工，采煤一班班长",
+        "evidence": "是全区出名的斧子工，采煤一班班长"
+      },
+      {
+        "key": "occupation",
+        "value": "班长",
+        "evidence": "作为班长，他只是发出一些简短的指令"
+      },
+      {
+        "key": "occupation",
+        "value": "矿工",
+        "evidence": "像所有矿工的老婆一样，对男人关照的体贴入微"
+      },
+      {
+        "key": "occupation",
+        "value": "煤矿工人",
+        "evidence": "咱们煤矿工人就是苦"
+      },
+      {
+        "key": "hometown",
+        "value": "河南",
+        "evidence": "他只好回到老家河南"
+      },
+      {
+        "key": "occupation",
+        "value": "师傅",
+        "evidence": "他过了冷清清的小火车站，不由从旁边拐上山坡，向师傅王世才家走去。"
+      },
+      {
+        "key": "occupation",
+        "value": "老班长",
+        "evidence": "他继承了已故老班长王世才的“遗风”，主要是用智慧和自己的实干精神来领导这群文盲的。"
+      }
+    ]
+  },
+  "王师傅": {
+    "name": "王师傅",
+    "aliases": [
+      "王师傅"
+    ],
+    "attributes": []
+  },
+  "王彩娥": {
+    "name": "王彩娥",
+    "aliases": [
+      "彩娥",
+      "王彩娥"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "最俊的女人",
+        "evidence": "彩娥也许是全双水村最俊的女人"
+      },
+      {
+        "key": "traits",
+        "value": "好吃懒做",
+        "evidence": "好吃懒做的王彩娥连院子也不打扫"
+      },
+      {
+        "key": "occupation",
+        "value": "理发店店主",
+        "evidence": "物资交流会一开始，胡得禄和王彩娥的夫妻理发店就快被顾客踏断了门槛。"
+      },
+      {
+        "key": "traits",
+        "value": "漂亮",
+        "evidence": "她这么俊的女人，先嫁了个“瓷锤”农民"
+      },
+      {
+        "key": "traits",
+        "value": "厉害",
+        "evidence": "这个厉害的女人在治功走后不久"
+      },
+      {
+        "key": "traits",
+        "value": "又麻又辣",
+        "evidence": "我们不能不佩服又麻又辣的女人！"
+      },
+      {
+        "key": "traits",
+        "value": "大胆",
+        "evidence": "他却再没胆量和这位大胆的女人交往了……"
+      },
+      {
+        "key": "occupation",
+        "value": "理发馆经营者",
+        "evidence": "石圪节“胡记理发馆”的王彩娥"
+      }
+    ]
+  },
+  "王明明": {
+    "name": "王明明",
+    "aliases": [
+      "王明明"
+    ],
+    "attributes": []
+  },
+  "王明清": {
+    "name": "王明清",
+    "aliases": [
+      "王明清"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "艺术家",
+        "evidence": "据说罐子村的艺术家王明清已经把满银的事编成了秧歌剧"
+      }
+    ]
+  },
+  "王满银": {
+    "name": "王满银",
+    "aliases": [
+      "满银",
+      "王满银"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "姐夫",
+        "evidence": "现在，这兄妹俩站在罐子村的公路边上，把他们的姐夫王满银恨得咬牙切齿。"
+      },
+      {
+        "key": "occupation",
+        "value": "做小生意",
+        "evidence": "逛到外面开始做起了小生意。"
+      },
+      {
+        "key": "hometown",
+        "value": "罐子村",
+        "evidence": "王满银是今天上午被公社的民兵小分队从罐子村带到这工地的。"
+      },
+      {
+        "key": "status",
+        "value": "孤单一人",
+        "evidence": "从此，他在这社会上就成了孤单一人。"
+      },
+      {
+        "key": "traits",
+        "value": "胆大",
+        "evidence": "他在外面逛胆大了"
+      },
+      {
+        "key": "traits",
+        "value": "破罐子破摔",
+        "evidence": "他们村叫个罐子村，他就是罐子村的破罐子！去他妈的，破罐子破摔，反正总是个破了！"
+      },
+      {
+        "key": "occupation",
+        "value": "二流子",
+        "evidence": "让那个二流子自作自受去吧！"
+      },
+      {
+        "key": "occupation",
+        "value": "做生意",
+        "evidence": "他在外面算是做生意；至于生意赔了还是赚了，没有多少人知道。"
+      },
+      {
+        "key": "occupation",
+        "value": "生意人",
+        "evidence": "这位生意人通常作不起大买卖"
+      },
+      {
+        "key": "traits",
+        "value": "二流子",
+        "evidence": "二流子王满银还不起账"
+      },
+      {
+        "key": "traits",
+        "value": "死缠赖磨",
+        "evidence": "有时候，他也白着脸和一位卖菜的农民死缠赖磨"
+      },
+      {
+        "key": "traits",
+        "value": "无忧无虑，悠然自得",
+        "evidence": "他一年四季无忧无虑浪迹祖国各地，过着那种虽说捉襟见肘却也悠然自得的日子。"
+      },
+      {
+        "key": "traits",
+        "value": "胆小",
+        "evidence": "王满银骨子里是胆小的人。"
+      },
+      {
+        "key": "occupation",
+        "value": "逛鬼",
+        "evidence": "逛鬼王满银没到年根而破例在秋天回到罐子村，立刻成了本村的一条大新闻！"
+      },
+      {
+        "key": "traits",
+        "value": "性格活泼，爱耍爱笑",
+        "evidence": "他性格活泼，爱耍爱笑，唱起信天游来嗓音震得岸瓜瓜响。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "王满银尽管不是好庄稼人。"
+      },
+      {
+        "key": "occupation",
+        "value": "做饭",
+        "evidence": "他让满银去大灶上做饭。"
+      }
+    ]
+  },
+  "王银满": {
+    "name": "王银满",
+    "aliases": [
+      "王银满"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "做买卖的生意人",
+        "evidence": "满银给妻子解释，这是和他一块做买卖的生意人"
+      }
+    ]
+  },
+  "生俊武": {
+    "name": "生俊武",
+    "aliases": [
+      "生俊武"
+    ],
+    "attributes": []
+  },
+  "生民同志": {
+    "name": "生民同志",
+    "aliases": [
+      "生民同志"
+    ],
+    "attributes": []
+  },
+  "田万有": {
+    "name": "田万有",
+    "aliases": [
+      "田万有"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "乐天派：爱闹红火，爱出洋相，而且最爱唱信天游",
+        "evidence": "他是村里头一个乐天派：爱闹红火，爱出洋相，而且最爱唱信天游"
+      }
+    ]
+  },
+  "田万江": {
+    "name": "田万江",
+    "aliases": [
+      "田万江"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "饲养员",
+        "evidence": "饲养员田万江老汉"
+      },
+      {
+        "key": "occupation",
+        "value": "老饲养员",
+        "evidence": "他哥田万江排行第四，是一队的老饲养员"
+      },
+      {
+        "key": "occupation",
+        "value": "民办教师",
+        "evidence": "万江老汉这半年被“提拔”到了民办教师的位置上"
+      }
+    ]
+  },
+  "田主任": {
+    "name": "田主任",
+    "aliases": [
+      "田主任"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "县领导",
+        "evidence": "这位县领导五官很像他哥田福堂"
+      }
+    ]
+  },
+  "田书记": {
+    "name": "田书记",
+    "aliases": [
+      "田书记"
+    ],
+    "attributes": []
+  },
+  "田二": {
+    "name": "田二",
+    "aliases": [
+      "田二"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "傻",
+        "evidence": "田二自己傻不说，还有个傻儿子"
+      },
+      {
+        "key": "occupation",
+        "value": "贫下中农",
+        "evidence": "“成分倒是贫下中农……平时也不好好参加劳动……”玉亭说。"
+      },
+      {
+        "key": "traits",
+        "value": "平时疯疯魔魔的",
+        "evidence": "“这人平时疯疯魔魔的，村里人也不把他算个数……”"
+      },
+      {
+        "key": "traits",
+        "value": "爱捡破烂",
+        "evidence": "田二最大的爱好，就是在村庄的各处和公路上转悠着，捡各种有用和无用的东西：铁丝头，废铁钉，烂布条，断麻绳，坏螺丝帽，破碗碴，碎纸片……"
+      },
+      {
+        "key": "traits",
+        "value": "常说“世事要变了”",
+        "evidence": "他除过捡破烂，还爱凑到什么地方，说他那句“永恒的格言”——“世事要变了！”"
+      },
+      {
+        "key": "status",
+        "value": "阶级敌人",
+        "evidence": "口号声中，“阶级敌人”已经一个个滚下了场。田二是本村人，因年纪太大，被革命宽恕免于“劳教”。"
+      },
+      {
+        "key": "traits",
+        "value": "半脑壳",
+        "evidence": "虽然这是个“半脑壳”老汉，但是一条人命，谁也不敢怠慢！"
+      }
+    ]
+  },
+  "田五": {
+    "name": "田五",
+    "aliases": [
+      "田五"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "艺术家",
+        "evidence": "如果这是另外的人家，村中首席艺术家田五马上会给众人编出一段逗笑的“链子嘴”来。"
+      }
+    ]
+  },
+  "田五叔": {
+    "name": "田五叔",
+    "aliases": [
+      "田五叔"
+    ],
+    "attributes": []
+  },
+  "田四": {
+    "name": "田四",
+    "aliases": [
+      "田四"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "老饲养员",
+        "evidence": "田四是他当队长时一队的老饲养员"
+      },
+      {
+        "key": "occupation",
+        "value": "饲养员",
+        "evidence": "前一队饲养员，田五他哥田四也捺不住性子"
+      }
+    ]
+  },
+  "田大婶": {
+    "name": "田大婶",
+    "aliases": [
+      "田大婶"
+    ],
+    "attributes": []
+  },
+  "田平娃": {
+    "name": "田平娃",
+    "aliases": [
+      "田平娃"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "小队会计",
+        "evidence": "小队会计田平娃已经在炕桌上铺开了几页白纸，准备记录大家的意见。"
+      },
+      {
+        "key": "occupation",
+        "value": "原会计",
+        "evidence": "托盘人为田五和一队原会计田平娃。"
+      },
+      {
+        "key": "occupation",
+        "value": "神汉徒弟",
+        "evidence": "这徒弟是原一队会计田平娃。"
+      },
+      {
+        "key": "occupation",
+        "value": "巫神接班人",
+        "evidence": "在大乐器那边的人堆里，巫神刘玉升接班人田平娃在打鼓。"
+      }
+    ]
+  },
+  "田晓光": {
+    "name": "田晓光",
+    "aliases": [
+      "田晓光"
+    ],
+    "attributes": []
+  },
+  "田晓晨": {
+    "name": "田晓晨",
+    "aliases": [
+      "晓晨",
+      "田晓晨"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "田福军的大儿子晓晨在西北大学上学，已经收假走了。"
+      },
+      {
+        "key": "occupation",
+        "value": "大学教师",
+        "evidence": "留校教了书。"
+      }
+    ]
+  },
+  "田晓霞": {
+    "name": "田晓霞",
+    "aliases": [
+      "晓霞",
+      "田晓霞"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "她也是才上高中的。"
+      },
+      {
+        "key": "traits",
+        "value": "性格很开朗",
+        "evidence": "她的性格很开朗"
+      },
+      {
+        "key": "traits",
+        "value": "从小就在黄原城里长大",
+        "evidence": "但她从小就在黄原城里长大"
+      },
+      {
+        "key": "occupation",
+        "value": "中学生",
+        "evidence": "晓霞告诉他，她父亲说过，一个中学生就要开始养成每天看报的习惯"
+      },
+      {
+        "key": "occupation",
+        "value": "插队",
+        "evidence": "她在原西城郊插队"
+      },
+      {
+        "key": "traits",
+        "value": "天性活泼，好动脑筋，而且思路很怪",
+        "evidence": "这孩子天性活泼，好动脑筋，而且思路很怪。"
+      },
+      {
+        "key": "traits",
+        "value": "性格太不安分了，情感方面也太激烈了",
+        "evidence": "她的性格太不安分了，情感方面也太激烈了。"
+      },
+      {
+        "key": "traits",
+        "value": "正直和富有同情心",
+        "evidence": "这是一个正直和富有同情心的孩子"
+      },
+      {
+        "key": "occupation",
+        "value": "高中毕业，现在仍在复习功课，准备再考",
+        "evidence": "高中毕业，考了一回大学，差几分没考上，现在仍在复习功课，准备再考。"
+      },
+      {
+        "key": "occupation",
+        "value": "大学生",
+        "evidence": "晓霞进了黄原师专中文系。"
+      },
+      {
+        "key": "occupation",
+        "value": "知识青年",
+        "evidence": "她知道这些寂寞的揽工汉随时都想拿女人开心。她是一个思想开阔的知识青年，不认为这对她是什么了不起的伤害，反而觉得这种“遭遇”倒也有趣！"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "孙少安暮黑时分进了黄原师专，见人就打问一个叫田晓霞的学生住在什么地方。"
+      },
+      {
+        "key": "occupation",
+        "value": "记者",
+        "evidence": "要分配她去省报当记者"
+      },
+      {
+        "key": "traits",
+        "value": "思路敏捷，知识面宽，性格泼辣，爱跑动，不怕吃苦",
+        "evidence": "这孩子思路敏捷，知识面也比她哥晓晨宽一些。另外，她性格泼辣，爱跑动，又不怕吃苦"
+      },
+      {
+        "key": "occupation",
+        "value": "省报的记者",
+        "evidence": "他马上就是省报的记者"
+      },
+      {
+        "key": "occupation",
+        "value": "省报记者",
+        "evidence": "矿上看重的是省报记者"
+      },
+      {
+        "key": "occupation",
+        "value": "田记者",
+        "evidence": "他来叫“田记者”吃饭。"
+      },
+      {
+        "key": "occupation",
+        "value": "职业如同鼓号般响亮",
+        "evidence": "她来自繁华的都市，职业如同鼓号般响亮"
+      },
+      {
+        "key": "occupation",
+        "value": "省报工作",
+        "evidence": "“我在省报工作。我把电话号码留给你，星期天就到我那里来！”"
+      },
+      {
+        "key": "occupation",
+        "value": "工业组",
+        "evidence": "“噢……是工业组的。让我给她打个电话，你先登记一下！”"
+      },
+      {
+        "key": "traits",
+        "value": "冒险精神闻名全报社",
+        "evidence": "他并不知道，这个姑娘的冒险精神闻名全报社。"
+      }
+    ]
+  },
+  "田海民": {
+    "name": "田海民",
+    "aliases": [
+      "海民",
+      "田海民"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "大队会计兼拖拉机手",
+        "evidence": "海民是大队会计兼拖拉机手"
+      },
+      {
+        "key": "occupation",
+        "value": "大队会计",
+        "evidence": "正在他两个拉谈已故金先生及肺气肿的时候，小学教师金成和大队会计田海民，气喘吁吁地跑进来说：“水头已经下来了！”"
+      },
+      {
+        "key": "occupation",
+        "value": "支委",
+        "evidence": "孙玉亭马上出门找支委田海民去了。"
+      },
+      {
+        "key": "occupation",
+        "value": "组织委员",
+        "evidence": "年轻的组织委员田海民婉言说："
+      },
+      {
+        "key": "occupation",
+        "value": "民兵队长",
+        "evidence": "海民是村里的民兵队长，这事先要报告他。"
+      },
+      {
+        "key": "occupation",
+        "value": "支委兼大队会计",
+        "evidence": "除过支委兼大队会计田海民外"
+      },
+      {
+        "key": "occupation",
+        "value": "大队支委",
+        "evidence": "这人是大队支委田海民。"
+      },
+      {
+        "key": "occupation",
+        "value": "养鱼场主",
+        "evidence": "田海民夫妻办了个养鱼场。"
+      },
+      {
+        "key": "occupation",
+        "value": "养鱼户",
+        "evidence": "他们给鱼池撒麦麸，撒草叶，撒大粪，撒煮熟的玉米瓣，活路相当紧张。"
+      },
+      {
+        "key": "occupation",
+        "value": "支部委员",
+        "evidence": "田海民的委员职务没变。"
+      }
+    ]
+  },
+  "田润叶": {
+    "name": "田润叶",
+    "aliases": [
+      "润叶",
+      "田润叶"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "教师",
+        "evidence": "后来润叶姐在县上的城关小学教了书，成了公家人"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "这时候，润叶在村里上了学。"
+      },
+      {
+        "key": "occupation",
+        "value": "小学学生",
+        "evidence": "他和润叶一个班，并且坐一张课桌。"
+      },
+      {
+        "key": "traits",
+        "value": "爱笑",
+        "evidence": "她在后面笑个不停"
+      },
+      {
+        "key": "occupation",
+        "value": "班主任",
+        "evidence": "她是三年级的班主任，忙着检查学生们的这些“武器”是否齐备，服装是否符合学校要求。"
+      },
+      {
+        "key": "occupation",
+        "value": "小学教师",
+        "evidence": "何况凡人田润叶只是个小学教师罢了。"
+      },
+      {
+        "key": "occupation",
+        "value": "老师",
+        "evidence": "原来是她们学校的女老师叫她去参加政治学习"
+      },
+      {
+        "key": "traits",
+        "value": "苦恼",
+        "evidence": "在这几个月里，田润叶陷入了极大的苦恼之中。"
+      },
+      {
+        "key": "status",
+        "value": "寄人门下",
+        "evidence": "像她这样一个寄人门下的二十二岁的姑娘，目前的处境可想而知。"
+      },
+      {
+        "key": "traits",
+        "value": "爱学习",
+        "evidence": "可人家润叶这娃娃爱学习，一晚上熬夜把眼睛都看肿了！"
+      },
+      {
+        "key": "traits",
+        "value": "明白人",
+        "evidence": "润叶是个明白人"
+      },
+      {
+        "key": "occupation",
+        "value": "公家的女教师",
+        "evidence": "一个满身汗臭的泥腿把子，怎么可能和一个公家的女教师一块生活呢？"
+      },
+      {
+        "key": "occupation",
+        "value": "有文化有工作",
+        "evidence": "他有文化有工作的女儿怎么可能嫁给他们呢？"
+      },
+      {
+        "key": "occupation",
+        "value": "教书",
+        "evidence": "“不用了。你不敢耽搁教书！我又不是找不见县医院。再说，你二妈也在医院哩……”"
+      },
+      {
+        "key": "occupation",
+        "value": "县城教书的",
+        "evidence": "父母提起让少安带着秀莲去县城扯衣服，使少安马上想到了县城教书的润叶。"
+      },
+      {
+        "key": "occupation",
+        "value": "干部",
+        "evidence": "人家是个干部，在县城工作着哩"
+      },
+      {
+        "key": "hometown",
+        "value": "双水村",
+        "evidence": "农民田福堂的女儿"
+      },
+      {
+        "key": "hometown",
+        "value": "石圪节公社",
+        "evidence": "“我是石圪节公社的。”润叶告诉贾老师。"
+      },
+      {
+        "key": "status",
+        "value": "农民家的娃娃",
+        "evidence": "按说，润叶是个农民家的娃娃，能攀这门亲事就很不容易了。"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委的少儿部",
+        "evidence": "我调到团地委的少儿部了"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委",
+        "evidence": "因为他们帮我调到了团地委"
+      },
+      {
+        "key": "occupation",
+        "value": "侄女",
+        "evidence": "田福军已经把侄女润叶从团地委叫过来，让她收拾了一下办公室的会客间；又买了一些瓜子、水果和本地的土特产，摆在茶几上。"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委少儿部工作人员",
+        "evidence": "田润叶独自回了团地委少儿部的办公室。"
+      },
+      {
+        "key": "traits",
+        "value": "孤僻",
+        "evidence": "由于心灵受过创伤，这个人现在变得有些孤僻。"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委的少儿部干事",
+        "evidence": "她在团地委的少儿部当干事。"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委工作",
+        "evidence": "润叶听说在团地委工作"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委工作人员",
+        "evidence": "因为“儿媳妇”调到了团地委"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委的办公室工作人员",
+        "evidence": "她不能再像往日那样平静地坐在团地委的办公室里，处理案头上的公务。"
+      },
+      {
+        "key": "occupation",
+        "value": "妻子",
+        "evidence": "润叶姐已经担当起了一个妻子的责任。"
+      },
+      {
+        "key": "occupation",
+        "value": "少儿部部长",
+        "evidence": "第一个走进他办公室的是少儿部部长田润叶。"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委少儿部部长",
+        "evidence": "润叶从几月前由一般干事提拔成了团地委少儿部部长"
+      },
+      {
+        "key": "occupation",
+        "value": "少儿部长",
+        "evidence": "她提拔成少儿部长后，工作一繁忙"
+      },
+      {
+        "key": "occupation",
+        "value": "团地委副书记",
+        "evidence": "去年秋末，润叶由原来的少儿部长提成了团地委副书记"
+      }
+    ]
+  },
+  "田润生": {
+    "name": "田润生",
+    "aliases": [
+      "润生",
+      "田润生"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "高中毕业学生",
+        "evidence": "他儿子润生高中毕业，回家来了。"
+      },
+      {
+        "key": "traits",
+        "value": "娇生惯养",
+        "evidence": "润生从小娇生惯养"
+      },
+      {
+        "key": "traits",
+        "value": "性格绵软",
+        "evidence": "这娃娃性格像他妈，比较绵软"
+      },
+      {
+        "key": "traits",
+        "value": "身体瘦瘦弱弱",
+        "evidence": "身体又像他，瘦瘦弱弱的"
+      },
+      {
+        "key": "occupation",
+        "value": "教师",
+        "evidence": "高中毕业回村的田润生和孙少平，走马上任，到学校当了教师。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "田润生是少平的同班同学"
+      },
+      {
+        "key": "traits",
+        "value": "性格比较随和，心中也没什么城府；遇事随波逐流，但从不胡作非为",
+        "evidence": "这人性格比较随和，心中也没什么城府；遇事随波逐流，但从不胡作非为"
+      },
+      {
+        "key": "occupation",
+        "value": "教书",
+        "evidence": "但我自己不教书了，准备到责任组劳动呀"
+      },
+      {
+        "key": "occupation",
+        "value": "学开车",
+        "evidence": "娃娃正学开车，他不能耽误儿子的前程。"
+      },
+      {
+        "key": "occupation",
+        "value": "司机",
+        "evidence": "原来这辆车是李向前和润生开的——这可碰了个巧！"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "其实我还是个农民，是跟我姐夫跑车。"
+      },
+      {
+        "key": "occupation",
+        "value": "汽车司机",
+        "evidence": "润生现在是堂堂的汽车司机"
+      },
+      {
+        "key": "occupation",
+        "value": "开汽车的",
+        "evidence": "开汽车的润生怎么能看上她呢？"
+      },
+      {
+        "key": "traits",
+        "value": "生性腼腆和胆怯",
+        "evidence": "润生在姑娘面前生性腼腆和胆怯"
+      },
+      {
+        "key": "traits",
+        "value": "在女性面前渐渐自卑起来",
+        "evidence": "竟使他在女性面前渐渐自卑起来"
+      },
+      {
+        "key": "occupation",
+        "value": "长途贩运者",
+        "evidence": "这小伙子现在走州过县搞起长途贩运……"
+      }
+    ]
+  },
+  "田牛": {
+    "name": "田牛",
+    "aliases": [
+      "田牛"
+    ],
+    "attributes": []
+  },
+  "田玉亭": {
+    "name": "田玉亭",
+    "aliases": [
+      "田玉亭"
+    ],
+    "attributes": []
+  },
+  "田福军": {
+    "name": "田福军",
+    "aliases": [
+      "田福军",
+      "福军"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "县上的副主任",
+        "evidence": "但徐叔的女婿田福军又当了县上的副主任。"
+      },
+      {
+        "key": "occupation",
+        "value": "副主任",
+        "evidence": "才分配回本县当了副主任——这算来也快满五年了。"
+      },
+      {
+        "key": "occupation",
+        "value": "二把手",
+        "evidence": "他现在是县上的二把手，登云排在他后面。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "以后又在黄原高中部毕业"
+      },
+      {
+        "key": "occupation",
+        "value": "秘书",
+        "evidence": "当时到西北党校秘书科当了秘书"
+      },
+      {
+        "key": "occupation",
+        "value": "干事",
+        "evidence": "一九五○年转到黄原行署财经委员会当干事"
+      },
+      {
+        "key": "occupation",
+        "value": "统计科科长",
+        "evidence": "不久又提拔为专署统计科科长"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "一九五五年进入中国人民大学学农业统计专业"
+      },
+      {
+        "key": "occupation",
+        "value": "专署办公室主任",
+        "evidence": "在地区，他先后任专署办公室主任"
+      },
+      {
+        "key": "occupation",
+        "value": "地委农工部长",
+        "evidence": "地委农工部长"
+      },
+      {
+        "key": "occupation",
+        "value": "地委秘书长",
+        "evidence": "地委秘书长"
+      },
+      {
+        "key": "occupation",
+        "value": "农村政策研究室主任",
+        "evidence": "兼农村政策研究室主任"
+      },
+      {
+        "key": "occupation",
+        "value": "主任",
+        "evidence": "田主任给少安倒了一杯茶水，又给他递上一根纸烟，并且亲自把打火机打着，伸到他面前。"
+      },
+      {
+        "key": "occupation",
+        "value": "县革委会副主任",
+        "evidence": "田福军和另外一位县革委会副主任张有智一块相跟着"
+      },
+      {
+        "key": "traits",
+        "value": "耿直人，又是个书生",
+        "evidence": "福军是个耿直人，又是个书生"
+      },
+      {
+        "key": "occupation",
+        "value": "基层领导干部",
+        "evidence": "他常想，作为一个基层领导干部，必须在他的工作范围内既要埋头苦干，又要动脑筋想新办法。"
+      },
+      {
+        "key": "occupation",
+        "value": "管农业的副主任",
+        "evidence": "作为管农业的副主任，田福军立刻给常委们摆出了一滩数字"
+      },
+      {
+        "key": "occupation",
+        "value": "省委组织部借调干部",
+        "evidence": "田福军借调到省委组织部已经一年零三个月了。"
+      },
+      {
+        "key": "occupation",
+        "value": "行署专员",
+        "evidence": "乔伯年口气认真地对他说：“福军同志，省委已经决定让你回黄原去担任行署专员。"
+      },
+      {
+        "key": "hometown",
+        "value": "原西县",
+        "evidence": "“原西县。”他回答。"
+      },
+      {
+        "key": "occupation",
+        "value": "地区行政公署专员",
+        "evidence": "田福军从省城返回黄原。出任了地区行政公署专员。"
+      },
+      {
+        "key": "occupation",
+        "value": "地委副书记",
+        "evidence": "并且又是地委排在第一位的副书记"
+      },
+      {
+        "key": "occupation",
+        "value": "专员",
+        "evidence": "对于田福军担任专员职务"
+      },
+      {
+        "key": "occupation",
+        "value": "田专员",
+        "evidence": "你明白吗？田专员！"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原地委书记",
+        "evidence": "他就接替老苗任了黄原地委书记"
+      },
+      {
+        "key": "occupation",
+        "value": "地委书记",
+        "evidence": "陪他们转悠的田福军的秘书白元，也坐在他们对面，胳膊上小心翼翼地挽着地委书记的外套。"
+      },
+      {
+        "key": "occupation",
+        "value": "上级",
+        "evidence": "福军没有因为成了他的上级，就对他们过去闹过的别扭耿耿于怀"
+      },
+      {
+        "key": "occupation",
+        "value": "田书记",
+        "evidence": "另外，机灵的杜正贤知道，黑老是田书记的老朋友，因此更不敢怠慢。"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原地区一把手",
+        "evidence": "他在这个贫困的家乡所在地区任一把手也已经有一年多了"
+      },
+      {
+        "key": "hometown",
+        "value": "黄原",
+        "evidence": "他在这个贫困的家乡所在地区任一把手也已经有一年多了"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原地区负责人",
+        "evidence": "第二天上午，在宾馆二楼会议室里，由田福军主持，专员呼正文向副总理汇报了黄原地区几年来的工作情况。"
+      },
+      {
+        "key": "occupation",
+        "value": "地区领导",
+        "evidence": "他全力以赴要把黄原的几件事办好。"
+      },
+      {
+        "key": "occupation",
+        "value": "市委书记",
+        "evidence": "田福军正是在这个背景上接替了秦富功的职务"
+      },
+      {
+        "key": "occupation",
+        "value": "市环境服务整顿指挥部总指挥",
+        "evidence": "自己充任总指挥"
+      },
+      {
+        "key": "occupation",
+        "value": "省委领导",
+        "evidence": "再说，你也是省委领导，我们一块共事多年了，你很了解我的缺点，请能随时提醒我！"
+      },
+      {
+        "key": "occupation",
+        "value": "前任地委书记",
+        "evidence": "如果黄原干部对前任地委书记田福军有意见的话，主要是不满他对张有智的姑息态度。"
+      }
+    ]
+  },
+  "田福堂": {
+    "name": "田福堂",
+    "aliases": [
+      "田福堂",
+      "福堂"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "大队书记",
+        "evidence": "与他一块上学的金波和大队书记田福堂的儿子润生都有自行车"
+      },
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "书记田福堂和副书记金俊山都不识字，回回都是他给众人宣读。"
+      },
+      {
+        "key": "occupation",
+        "value": "双水村的书记",
+        "evidence": "田福军他哥田福堂就是双水村的书记"
+      },
+      {
+        "key": "occupation",
+        "value": "大队领导",
+        "evidence": "在石圪节几十个大队领导中，他无疑是最有名望的。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "他只是对爱云说，润叶年纪不小了，又在城里工作，他是个农民，没办法帮助女儿寻个人家"
+      },
+      {
+        "key": "occupation",
+        "value": "农村的土政治家",
+        "evidence": "这位农村的土政治家又一次自大地想"
+      },
+      {
+        "key": "occupation",
+        "value": "一村之主",
+        "evidence": "我作为一村之主，因为大家的事而惹你老人家伤心"
+      },
+      {
+        "key": "occupation",
+        "value": "党支书",
+        "evidence": "要田书记等于要一个负担——他常不是开会，就是“做工作”"
+      },
+      {
+        "key": "occupation",
+        "value": "农村的支部书记",
+        "evidence": "他虽然是个农村的支部书记，但穿越过不同时代的各种社会风暴"
+      },
+      {
+        "key": "traits",
+        "value": "饱经世故",
+        "evidence": "但田福堂没有这么幼稚，这是一个饱经世故的人。"
+      },
+      {
+        "key": "traits",
+        "value": "郁郁寡欢",
+        "evidence": "双水村这位郁郁寡欢的强人，在山里劳动已经快半年了。"
+      },
+      {
+        "key": "traits",
+        "value": "强人",
+        "evidence": "这个强人啊……"
+      },
+      {
+        "key": "status",
+        "value": "身体垮掉/气管炎严重/力不从心",
+        "evidence": "但强人终究是强人。田福堂并不因为自己身体的垮掉，就想连累她的儿女"
+      },
+      {
+        "key": "occupation",
+        "value": "父亲",
+        "evidence": "爸爸年事已高，身体又不好；他作为唯一的儿子，就应该像个男子汉一样为家庭担负起责任来。"
+      },
+      {
+        "key": "occupation",
+        "value": "包工头",
+        "evidence": "双水村这位“无产阶级革命家”，终于采取了机会主义态度，开始走上了“资本主义道路”，到县城当起了包工头。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民政治家",
+        "evidence": "这位曾经立志要成为永贵式人物的农民政治家"
+      },
+      {
+        "key": "status",
+        "value": "身体垮了",
+        "evidence": "福堂的身体是完全垮了。"
+      },
+      {
+        "key": "occupation",
+        "value": "党支部书记",
+        "evidence": "他只要还在出气，就不准备把党支部书记的职务交给别人。"
+      },
+      {
+        "key": "occupation",
+        "value": "支书",
+        "evidence": "躺在碾盘上晒太阳的支书问妇女主任：“你哭什么哩？”"
+      },
+      {
+        "key": "occupation",
+        "value": "党的支部书记",
+        "evidence": "就是田福堂这样党的支部书记"
+      },
+      {
+        "key": "occupation",
+        "value": "普通老百姓",
+        "evidence": "这样，福堂同志和俊山同时就成了普通老百姓。"
+      },
+      {
+        "key": "occupation",
+        "value": "领导",
+        "evidence": "福堂在村里当了几十年领导"
+      },
+      {
+        "key": "occupation",
+        "value": "前支书",
+        "evidence": "孙少安硬把前支书拉到主席台上"
+      }
+    ]
+  },
+  "田福林": {
+    "name": "田福林",
+    "aliases": [
+      "田福林"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "第三农业组长",
+        "evidence": "第三农业组长：田福林（签名）"
+      }
+    ]
+  },
+  "田福顺": {
+    "name": "田福顺",
+    "aliases": [
+      "田福顺"
+    ],
+    "attributes": []
+  },
+  "田福高": {
+    "name": "田福高",
+    "aliases": [
+      "田福高",
+      "福高"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副队长",
+        "evidence": "需要好好把这些事安顿给副队长田福高"
+      },
+      {
+        "key": "occupation",
+        "value": "一队副队长",
+        "evidence": "一队副队长见是书记，赶忙站起来"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "咱个农民，怕个球！"
+      },
+      {
+        "key": "occupation",
+        "value": "原一队副队长",
+        "evidence": "像原一队副队长田福高这样满年缺好吃喝的人"
+      },
+      {
+        "key": "status",
+        "value": "满年缺好吃喝",
+        "evidence": "像原一队副队长田福高这样满年缺好吃喝的人"
+      },
+      {
+        "key": "occupation",
+        "value": "支部委员",
+        "evidence": "新任支部委员有原一队副队长田福高和金家湾入党不久的前地主的小儿子金光辉。"
+      }
+    ]
+  },
+  "瘦老汉": {
+    "name": "瘦老汉",
+    "aliases": [
+      "瘦老汉"
+    ],
+    "attributes": []
+  },
+  "白主任": {
+    "name": "白主任",
+    "aliases": [
+      "白主任"
+    ],
+    "attributes": []
+  },
+  "白元": {
+    "name": "白元",
+    "aliases": [
+      "白元"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "秘书",
+        "evidence": "跟他一块来的秘书白元，这几天也很少到他房间来"
+      }
+    ]
+  },
+  "白明川": {
+    "name": "白明川",
+    "aliases": [
+      "白明川"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "公社主任",
+        "evidence": "田福堂正坐在公社主任白明川的办公窑里，一边喝茶水，一边听明川和治功说话。"
+      },
+      {
+        "key": "occupation",
+        "value": "武装专干",
+        "evidence": "七○年县武装部招一批武装专干，他被招收了，分在城关公社工作。"
+      },
+      {
+        "key": "occupation",
+        "value": "城关公社副主任",
+        "evidence": "第二年他被提升为城关公社副主任。"
+      },
+      {
+        "key": "occupation",
+        "value": "石圪节公社一把手",
+        "evidence": "前年又调到石圪节公社当了一把手。"
+      },
+      {
+        "key": "traits",
+        "value": "对过分伤害农民的做法反感",
+        "evidence": "因为他自己也是农民的儿子，所以他往往对过分伤害农民的做法反感。"
+      },
+      {
+        "key": "occupation",
+        "value": "公社的领导",
+        "evidence": "现在，两位公社的领导人在办公室里谈论着这件事"
+      },
+      {
+        "key": "occupation",
+        "value": "公社领导人",
+        "evidence": "现在，两位公社的领导人在办公室里谈论着这件事。"
+      },
+      {
+        "key": "occupation",
+        "value": "石圪节公社主任",
+        "evidence": "公社主任周文龙和石圪节公社主任白明川是高中的同班同学"
+      },
+      {
+        "key": "occupation",
+        "value": "县上的领导",
+        "evidence": "李登云、张有智、马国雄、白明川、周文龙等县上的领导就都相跟着来了。"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原市副书记",
+        "evidence": "明川已经调到黄原市当副书记去了"
+      },
+      {
+        "key": "occupation",
+        "value": "副书记",
+        "evidence": "明川很早就已调到黄原市任了副书记；"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原市委的正书记",
+        "evidence": "明川在前不久已经提拔成黄原市委的正书记了。"
+      }
+    ]
+  },
+  "石钟": {
+    "name": "石钟",
+    "aliases": [
+      "石钟"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省委主管组织工作的副书记",
+        "evidence": "他已经让省委主管组织工作的副书记石钟同志尽快提出意见，调整和加强南北几个地区的领导班子……"
+      },
+      {
+        "key": "occupation",
+        "value": "省委副书记",
+        "evidence": "小陈领进来的是省委副书记石钟。"
+      },
+      {
+        "key": "occupation",
+        "value": "省委领导",
+        "evidence": "招待所服务员正给乔伯年和石钟倒茶。两位省委领导见他进来，都站起来和他握手。"
+      },
+      {
+        "key": "occupation",
+        "value": "省委管组织的副书记",
+        "evidence": "他为此曾专门来过一次省里，分别找省委管组织的副书记石钟和省委常务副书记吴斌谈过他的意见；"
+      },
+      {
+        "key": "occupation",
+        "value": "省委正副书记",
+        "evidence": "到时省委正副书记乔伯年、吴斌、石钟和省长汪昭义都要和他们一起去北京参加这个汇报会。"
+      }
+    ]
+  },
+  "福堂哥": {
+    "name": "福堂哥",
+    "aliases": [
+      "福堂哥"
+    ],
+    "attributes": []
+  },
+  "秀英": {
+    "name": "秀英",
+    "aliases": [
+      "秀英"
+    ],
+    "attributes": []
+  },
+  "秦富功": {
+    "name": "秦富功",
+    "aliases": [
+      "秦富功"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "市委书记",
+        "evidence": "市委书记秦富功问张生民"
+      },
+      {
+        "key": "occupation",
+        "value": "市上的领导",
+        "evidence": "秦富功和市上的所有领导都互相瞪起了眼"
+      },
+      {
+        "key": "occupation",
+        "value": "省委副书记兼市委书记",
+        "evidence": "秦富功同志被免去了省委副书记兼市委书记职务"
+      }
+    ]
+  },
+  "米阴阳": {
+    "name": "米阴阳",
+    "aliases": [
+      "米阴阳"
+    ],
+    "attributes": []
+  },
+  "老伴": {
+    "name": "老伴",
+    "aliases": [
+      "老伴"
+    ],
+    "attributes": []
+  },
+  "老司机": {
+    "name": "老司机",
+    "aliases": [
+      "老司机"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "司机",
+        "evidence": "一位年约五十岁的老司机跳下车来"
+      }
+    ]
+  },
+  "老吴": {
+    "name": "老吴",
+    "aliases": [
+      "老吴"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "司机",
+        "evidence": "让司机老吴把他直接送到一个区的医院里。"
+      }
+    ]
+  },
+  "老奶奶": {
+    "name": "老奶奶",
+    "aliases": [
+      "老奶奶"
+    ],
+    "attributes": []
+  },
+  "老婆婆": {
+    "name": "老婆婆",
+    "aliases": [
+      "老婆婆"
+    ],
+    "attributes": []
+  },
+  "老师傅": {
+    "name": "老师傅",
+    "aliases": [
+      "老师傅"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "铁匠",
+        "evidence": "老的显然是师傅，一只手里的铁钳夹一块烧红的铁放在砧子上，另一只手拿把小铁锤在红铁上敲打。"
+      },
+      {
+        "key": "hometown",
+        "value": "河南",
+        "evidence": "他听口音，知道铁匠是河南人。"
+      }
+    ]
+  },
+  "老母亲": {
+    "name": "老母亲",
+    "aliases": [
+      "老母亲"
+    ],
+    "attributes": []
+  },
+  "老祖母": {
+    "name": "老祖母",
+    "aliases": [
+      "老祖母"
+    ],
+    "attributes": []
+  },
+  "老陶": {
+    "name": "老陶",
+    "aliases": [
+      "老陶"
+    ],
+    "attributes": []
+  },
+  "胖炉头": {
+    "name": "胖炉头",
+    "aliases": [
+      "胖炉头"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "厨师",
+        "evidence": "胖炉头胸有成竹地对三个人说：“不怕！不是吹哩，别说让我挡一辆，挡十辆也能挡定哩！这一路上的司机哪个没沾过我的光！”"
+      }
+    ]
+  },
+  "胡得禄": {
+    "name": "胡得禄",
+    "aliases": [
+      "胡得禄"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "专业理发师",
+        "evidence": "因为石圪节全公社就这么一个专业理发师"
+      },
+      {
+        "key": "occupation",
+        "value": "理发师",
+        "evidence": "孙少安花了二毛五分钱，让胖理发师胡得禄给他理了发。"
+      },
+      {
+        "key": "occupation",
+        "value": "理发店店主",
+        "evidence": "物资交流会一开始，胡得禄和王彩娥的夫妻理发店就快被顾客踏断了门槛。"
+      },
+      {
+        "key": "occupation",
+        "value": "剃头匠",
+        "evidence": "后来又改嫁了一个比她大十几岁的剃头匠，胖得像个弥勒佛"
+      }
+    ]
+  },
+  "胡得福": {
+    "name": "胡得福",
+    "aliases": [
+      "胡得福"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "厨师",
+        "evidence": "全县几个著名的厨师都被请来了，其中有石圪节食堂的胖炉头胡得福"
+      },
+      {
+        "key": "occupation",
+        "value": "红烧肘子专家",
+        "evidence": "她声色俱厉地警告“红烧肘子专家”；"
+      },
+      {
+        "key": "occupation",
+        "value": "石圪节食堂炉头",
+        "evidence": "像副乡长杨高虎和石圪节食堂炉头胡得福这样一些人，曾鼓动他买一辆摩托车；"
+      }
+    ]
+  },
+  "胡永合": {
+    "name": "胡永合",
+    "aliases": [
+      "永合",
+      "胡永合"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "冒尖户",
+        "evidence": "可是有一次，他碰见“夸富”会上和他住同屋的“冒尖户”胡永合，把他这种便当的买卖大大嘲笑了一番。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民企业家",
+        "evidence": "永合早已是闻名全县的“农民企业家”。"
+      },
+      {
+        "key": "occupation",
+        "value": "生意人",
+        "evidence": "在孙少安意气风发干“大事业”的时候，他的生意人朋友胡永合路过石圪节，听说了他的情况，就专门来拜访他。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "叫全中国都知道有你我这样的农民！"
+      },
+      {
+        "key": "traits",
+        "value": "抱负非凡",
+        "evidence": "少安对抱负非凡的永合笑了笑"
+      },
+      {
+        "key": "traits",
+        "value": "精明",
+        "evidence": "精明人胡永合也不会白把票子扔给电视台的！"
+      }
+    ]
+  },
+  "胡永州": {
+    "name": "胡永州",
+    "aliases": [
+      "胡永州"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "包工头",
+        "evidence": "包工头听口音是原西人。一攀谈，没错，是原西柳岔公社的，叫胡永州"
+      },
+      {
+        "key": "occupation",
+        "value": "黑包工头",
+        "evidence": "她大概只记得，几个月前正是他给了她近一百元钱，才把她从黑包工头胡永州那里领出来"
+      }
+    ]
+  },
+  "苗主任": {
+    "name": "苗主任",
+    "aliases": [
+      "苗主任"
+    ],
+    "attributes": []
+  },
+  "苗书记": {
+    "name": "苗书记",
+    "aliases": [
+      "苗书记"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "苗书记把两片药送进嘴里，喝了几口白开水"
+      }
+    ]
+  },
+  "苗凯": {
+    "name": "苗凯",
+    "aliases": [
+      "苗凯"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "黄原地区革委会主任",
+        "evidence": "几天前，黄原地区革委会主任苗凯就亲自给冯世宽打了电话，布置了接待高老的有关事宜。"
+      },
+      {
+        "key": "occupation",
+        "value": "地区主任",
+        "evidence": "你苗主任今天也“领教”了这位被地区呼主任吹捧为“有能力、有魄力”的人物"
+      },
+      {
+        "key": "occupation",
+        "value": "地县领导",
+        "evidence": "在苗凯和冯世宽发完言后，高老脸抽搐着，说：“我们敬爱的周总理生前非常关心黄原老区人民。他老人家逝世的前一年，听说黄原有的地方农民还饿肚子，都难过得流了泪……”他转过脸看着苗凯和冯世宽，“你们在几年前就给总理做过保证，要三年变面貌，五年粮食翻一番。现在仍然这样说！是不是过五年以后，还这样说？同志们，再不要光在嘴上喊口号了，要真正解决问题！照我看，现在最主要的问题是，‘四人帮’的那一套做法还在作怪……”"
+      },
+      {
+        "key": "occupation",
+        "value": "地区革委会主任",
+        "evidence": "他向常委们传达了地区革委会主任苗凯同志的指示：坚决制止！"
+      },
+      {
+        "key": "occupation",
+        "value": "地委书记",
+        "evidence": "他想先尽快和地委书记苗凯同志见见面"
+      },
+      {
+        "key": "occupation",
+        "value": "书记",
+        "evidence": "苗书记向地委和行署的各位负责人出人意料地宣布"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原地委书记",
+        "evidence": "黄原地委书记苗凯同志到省城后，没有能立即进医院。"
+      },
+      {
+        "key": "occupation",
+        "value": "领导干部",
+        "evidence": "新来的省委书记乔伯年处处讲要解放思想，克服领导干部中僵化和半僵化状态"
+      },
+      {
+        "key": "hometown",
+        "value": "山西",
+        "evidence": "办事处主任武宏全知道苗书记是山西人"
+      },
+      {
+        "key": "status",
+        "value": "身体也不太好",
+        "evidence": "我年纪大了，再说，身体也不太好……"
+      },
+      {
+        "key": "occupation",
+        "value": "省纪律监察委员会常务副书记",
+        "evidence": "苗凯同志调到省纪律监察委员会任了常务副书记"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原前地委书记",
+        "evidence": "地委副书记高凤阁是黄原前地委书记苗凯多年精心培养的接班人"
+      },
+      {
+        "key": "occupation",
+        "value": "省纪监委书记",
+        "evidence": "一次是省纪监委书记苗凯直接和他约的。"
+      }
+    ]
+  },
+  "菊英": {
+    "name": "菊英",
+    "aliases": [
+      "菊英"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "找对象的眼头倒蛮高",
+        "evidence": "不料，菊英学习不中用，找对象的眼头倒蛮高。"
+      }
+    ]
+  },
+  "萝卜花": {
+    "name": "萝卜花",
+    "aliases": [
+      "萝卜花"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "揽工汉",
+        "evidence": "少平高兴的是，以前和他一块做过活的“萝卜花”也在这里，两个人已经是老相识，一见面亲切得很！"
+      }
+    ]
+  },
+  "藏族姑娘": {
+    "name": "藏族姑娘",
+    "aliases": [
+      "藏族姑娘"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "军马场职工",
+        "evidence": "军马场有不少藏族姑娘"
+      }
+    ]
+  },
+  "虎娃": {
+    "name": "虎娃",
+    "aliases": [
+      "虎娃"
+    ],
+    "attributes": []
+  },
+  "虎子": {
+    "name": "虎子",
+    "aliases": [
+      "虎子"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "小学一年级学生",
+        "evidence": "虎子这半年已经上了小学一年级"
+      }
+    ]
+  },
+  "虎虎": {
+    "name": "虎虎",
+    "aliases": [
+      "虎虎"
+    ],
+    "attributes": []
+  },
+  "虹虹": {
+    "name": "虹虹",
+    "aliases": [
+      "虹虹"
+    ],
+    "attributes": []
+  },
+  "贺凤英": {
+    "name": "贺凤英",
+    "aliases": [
+      "凤英",
+      "贺凤英"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "妇女主任",
+        "evidence": "村里人明不说，背后谁不耻笑他们！"
+      },
+      {
+        "key": "hometown",
+        "value": "山西",
+        "evidence": "当这个操着山西口音的女人来到他家门上后，就把他们一家从祖传的老窑里赶出来。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "凤英虽然过去和他一样热心革命，但看来她终究是妇道人家，一旦世事变了，就把光景日月看得高于一切！"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "那光景依旧过得没楞没沿，她不得不屈驾来侄儿这里赚几个买化肥的钱"
+      },
+      {
+        "key": "occupation",
+        "value": "村民委员兼妇女主任",
+        "evidence": "村民委员兼妇女主任贺凤英，充分发挥自己的特长，正领着一些妇女精心地布置主席台和会场。"
+      }
+    ]
+  },
+  "贺秀莲": {
+    "name": "贺秀莲",
+    "aliases": [
+      "秀莲",
+      "贺秀莲"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "小女儿秀莲今年二十二岁，在村里上过几年学后，就一直在家劳动。"
+      },
+      {
+        "key": "traits",
+        "value": "懂事",
+        "evidence": "她身体好，人样不错，看来也还懂事；因为从小没娘，磨练得门里门外的活都能干。"
+      },
+      {
+        "key": "hometown",
+        "value": "山西",
+        "evidence": "这位大眼睛山西姑娘现在却只有高兴而没有忧愁"
+      },
+      {
+        "key": "traits",
+        "value": "天性不爱念书",
+        "evidence": "她天性不爱念书，觉得在学校不如在山里劳动自由自在"
+      },
+      {
+        "key": "traits",
+        "value": "爱吃醋",
+        "evidence": "你们山西人真爱吃醋"
+      },
+      {
+        "key": "occupation",
+        "value": "妻子",
+        "evidence": "他的秀莲更丰满了"
+      },
+      {
+        "key": "occupation",
+        "value": "农村媳妇",
+        "evidence": "对于现时代一个年轻的农村媳妇来说，这一切已经难能可贵了。"
+      },
+      {
+        "key": "traits",
+        "value": "心甘情愿和他一块撑扶这个穷家而毫无怨言",
+        "evidence": "几年来，她一直心甘情愿和他一块撑扶这个穷家而毫无怨言。"
+      },
+      {
+        "key": "occupation",
+        "value": "媳妇",
+        "evidence": "这样的媳妇而今哪里能找得见？"
+      },
+      {
+        "key": "traits",
+        "value": "好娃娃，不嫌咱家穷，一点怨言也没有，仁至义尽",
+        "evidence": "秀莲实在是个好娃娃！人家从山西过来，不嫌咱家穷，几年来和一大家人搅在一起。门里门外操劳，一点怨言也没有，这样的媳妇而今哪里能找得见？人家娃娃没拨弹，已经仁至义尽了！"
+      },
+      {
+        "key": "occupation",
+        "value": "会计",
+        "evidence": "又是给众人记工的会计"
+      },
+      {
+        "key": "traits",
+        "value": "勤俭",
+        "evidence": "出乎少安意料的是，平时勤俭的秀莲却特别痛快地支持他搞这件事"
+      },
+      {
+        "key": "status",
+        "value": "生病",
+        "evidence": "生病以来，秀莲的性情有些改变"
+      }
+    ]
+  },
+  "贺耀宗": {
+    "name": "贺耀宗",
+    "aliases": [
+      "贺耀宗"
+    ],
+    "attributes": []
+  },
+  "贾冰": {
+    "name": "贾冰",
+    "aliases": [
+      "贾冰"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "诗人",
+        "evidence": "其中有个叫贾冰的诗人"
+      },
+      {
+        "key": "occupation",
+        "value": "《黄原文艺》主编",
+        "evidence": "著名老作家黑白由地区文化局长杜正贤和《黄原文艺》主编贾冰陪同，前来拜访田福军。"
+      },
+      {
+        "key": "occupation",
+        "value": "省作家协会会员",
+        "evidence": "贾诗人不仅是省作家协会会员，而且还是个理事，现在黑老师到了黄原，他得格外卖劲招待这位本省文学界的泰斗。"
+      },
+      {
+        "key": "occupation",
+        "value": "理事",
+        "evidence": "贾诗人不仅是省作家协会会员，而且还是个理事，现在黑老师到了黄原，他得格外卖劲招待这位本省文学界的泰斗。"
+      },
+      {
+        "key": "occupation",
+        "value": "文联副主席、诗人",
+        "evidence": "和文联副主席、诗人贾冰"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原文联副主席",
+        "evidence": "一位是黄原文联副主席贾冰，"
+      }
+    ]
+  },
+  "贾冰的爱人": {
+    "name": "贾冰的爱人",
+    "aliases": [
+      "贾冰的爱人"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "卖羊杂碎",
+        "evidence": "他老婆办了营业执照，在二道街上卖羊杂碎"
+      },
+      {
+        "key": "traits",
+        "value": "腼腆、怕生人",
+        "evidence": "但这位腼腆的妇女红着脸退出了房间。诗人尴尬地对黑老说：“我老婆是个‘土耳其’！她怕生人”"
+      }
+    ]
+  },
+  "贾老师": {
+    "name": "贾老师",
+    "aliases": [
+      "贾老师"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "诗人",
+        "evidence": "“贾老师是大诗人！我们《黄原文艺》的主编。他常在报纸上发表诗歌哩！"
+      },
+      {
+        "key": "occupation",
+        "value": "主编",
+        "evidence": "“贾老师是大诗人！我们《黄原文艺》的主编。他常在报纸上发表诗歌哩！"
+      },
+      {
+        "key": "hometown",
+        "value": "柳岔公社贾家沟",
+        "evidence": "“我是柳岔公社贾家沟的……”"
+      }
+    ]
+  },
+  "赖特·史德加博士": {
+    "name": "赖特·史德加博士",
+    "aliases": [
+      "赖特·史德加博士"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "专门研究超自然现象的专家",
+        "evidence": "美国一位专门研究超自然现象的专家自赖特·史德加博士"
+      }
+    ]
+  },
+  "赵忠祥": {
+    "name": "赵忠祥",
+    "aliases": [
+      "赵忠祥"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "中央电视台播音员",
+        "evidence": "从那些亮着灯火的窗口传出中央电视台播音员赵忠祥浑厚的声音"
+      }
+    ]
+  },
+  "跛女子": {
+    "name": "跛女子",
+    "aliases": [
+      "跛女子"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "行走有点瘸跛",
+        "evidence": "因此行走有点瘸跛"
+      }
+    ]
+  },
+  "邓小平": {
+    "name": "邓小平",
+    "aliases": [
+      "邓小平"
+    ],
+    "attributes": []
+  },
+  "郝红梅": {
+    "name": "郝红梅",
+    "aliases": [
+      "红梅",
+      "郝红梅"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "被推荐来县城上高中的"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "他和那个叫郝红梅的女生都是毫不相干地各自拿了自己的馍就离开了。"
+      },
+      {
+        "key": "status",
+        "value": "贫困",
+        "evidence": "孙少平发现，郝红梅实际上是班里最漂亮的女生。只是因为她穿戴破烂，再加上一脸菜色，才使得所有的人都没有发现这一点。"
+      },
+      {
+        "key": "status",
+        "value": "家庭成分不好",
+        "evidence": "这个家庭成分不好的女孩子，从小在担惊受怕中长大。"
+      },
+      {
+        "key": "status",
+        "value": "家庭破落",
+        "evidence": "至于她家的光景，当然已经破落的一塌糊涂。"
+      },
+      {
+        "key": "status",
+        "value": "成分不好，光景不好",
+        "evidence": "她家成分不好，光景不好"
+      },
+      {
+        "key": "traits",
+        "value": "很有一些心计",
+        "evidence": "她表面上看来很平板，但很有一些心计。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中生",
+        "evidence": "她是一个高中生，怎能这样庸俗不堪呢？"
+      },
+      {
+        "key": "status",
+        "value": "没钱",
+        "evidence": "但她又不能让女同学看出她没钱给她们回赠礼物。"
+      },
+      {
+        "key": "status",
+        "value": "地主成分",
+        "evidence": "听说还是地主成分，这不是阶级斗争的新动向吗？"
+      },
+      {
+        "key": "status",
+        "value": "家穷",
+        "evidence": "她因为家穷，给同学送不起礼物，才犯了这个错误。"
+      },
+      {
+        "key": "occupation",
+        "value": "小学教师",
+        "evidence": "红梅和他一样，回村后当了小学教师，听说现在仍然当着。"
+      },
+      {
+        "key": "occupation",
+        "value": "教师",
+        "evidence": "她自己不是也当了教师吗？"
+      },
+      {
+        "key": "status",
+        "value": "不幸",
+        "evidence": "从简短的几句交谈中，润生就证实了郝红梅的不幸。"
+      },
+      {
+        "key": "occupation",
+        "value": "农村妇女",
+        "evidence": "真的，对一个农村妇女来说，一个汽车司机就是了不起的人物。"
+      },
+      {
+        "key": "status",
+        "value": "穷",
+        "evidence": "他看见，红梅的窑里不搁什么东西——显然是一个穷家。"
+      },
+      {
+        "key": "occupation",
+        "value": "农村学生",
+        "evidence": "郝红梅和所有农村学生一样，回到了村子里"
+      },
+      {
+        "key": "occupation",
+        "value": "教书",
+        "evidence": "她在村里教了书"
+      },
+      {
+        "key": "status",
+        "value": "地主成份的农民家庭",
+        "evidence": "对一个地主成份的农民家庭来说"
+      },
+      {
+        "key": "occupation",
+        "value": "农村小学教员",
+        "evidence": "外县一个亲戚给她介绍了当地一位农村小学教员。"
+      },
+      {
+        "key": "status",
+        "value": "苦命",
+        "evidence": "苦命的人，常常是雪上加霜！红梅已经完全相信这是命运的惩罚。"
+      },
+      {
+        "key": "occupation",
+        "value": "卖饺子",
+        "evidence": "她就把一点简单的灶具搬运到那个戏场子里，卖起了饺子。"
+      },
+      {
+        "key": "status",
+        "value": "穷家薄业",
+        "evidence": "她穷家薄业的，人家怎会把她这样的人放在眼里呢？"
+      },
+      {
+        "key": "status",
+        "value": "日子过得清苦",
+        "evidence": "你日子过得这么清苦，我想帮助你。"
+      },
+      {
+        "key": "status",
+        "value": "寡妇",
+        "evidence": "俗话说，寡妇门上是非多。"
+      },
+      {
+        "key": "status",
+        "value": "孤儿寡母",
+        "evidence": "对于孤儿寡母来说，没有什么能比得上一个男人的关怀更重要了……"
+      },
+      {
+        "key": "status",
+        "value": "一贫如洗",
+        "evidence": "她一贫如洗，除过每次侍候他吃两碗她精心擀的细面条外，就只能两手空空送人家走了。"
+      },
+      {
+        "key": "traits",
+        "value": "苦惯了",
+        "evidence": "我苦惯了，我不愿再连累别人……"
+      },
+      {
+        "key": "status",
+        "value": "丧夫携子",
+        "evidence": "在目睹了丧夫携子的红梅在异乡的山村悲惨而不幸的生活后"
+      },
+      {
+        "key": "status",
+        "value": "光景很穷",
+        "evidence": "他只知道她家成分是地主，但光景很穷"
+      },
+      {
+        "key": "traits",
+        "value": "在他面前表现出了一种难以掩饰的自卑感",
+        "evidence": "红梅自己一开始就在他面前表现出了一种难以掩饰的自卑感"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "咱们就一辈子安安稳稳在农村过光景"
+      },
+      {
+        "key": "occupation",
+        "value": "寡妇",
+        "evidence": "一般人很少娶寡妇为妻"
+      },
+      {
+        "key": "status",
+        "value": "可怜",
+        "evidence": "为什么要找她这样一个可怜的寡妇呢"
+      },
+      {
+        "key": "traits",
+        "value": "孤单",
+        "evidence": "郝红梅依旧孤单地带着自己的孩子"
+      },
+      {
+        "key": "traits",
+        "value": "熬苦惯了",
+        "evidence": "她熬苦惯了，如今孩子也已经长大，她不愿再寻找一个陌生的男人。"
+      },
+      {
+        "key": "occupation",
+        "value": "劳动妇女",
+        "evidence": "她早就成了真正的劳动妇女。"
+      },
+      {
+        "key": "traits",
+        "value": "漂亮女人的诱人魅力",
+        "evidence": "心灵的凄苦和劳动的折磨，仍然没能改变她身上那种漂亮女人的诱人魅力"
+      },
+      {
+        "key": "traits",
+        "value": "保持着上学时的卫生习惯",
+        "evidence": "直到如今，她仍然保持着上学时的卫生习惯"
+      }
+    ]
+  },
+  "金三锤": {
+    "name": "金三锤",
+    "aliases": [
+      "金三锤"
+    ],
+    "attributes": []
+  },
+  "金二锤": {
+    "name": "金二锤",
+    "aliases": [
+      "金二锤"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "金光亮家即将高中毕业的小子金二锤"
+      },
+      {
+        "key": "occupation",
+        "value": "解放军",
+        "evidence": "我现在参加了解放军"
+      }
+    ]
+  },
+  "金俊山": {
+    "name": "金俊山",
+    "aliases": [
+      "俊山",
+      "金俊山"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副书记",
+        "evidence": "书记田福堂和副书记金俊山都不识字，回回都是他给众人宣读。"
+      },
+      {
+        "key": "occupation",
+        "value": "大队的副书记",
+        "evidence": "他要去找一回他们大队的副书记金俊山，商量一点事。"
+      },
+      {
+        "key": "occupation",
+        "value": "党支部的副书记",
+        "evidence": "俊山怎么能当党支部的副书记呢"
+      },
+      {
+        "key": "traits",
+        "value": "做事倒很注意分寸，无论谁，他都不专门寻人家的不是",
+        "evidence": "至于金俊山，做事倒很注意分寸，无论谁，他都不专门寻人家的不是"
+      },
+      {
+        "key": "occupation",
+        "value": "双水村大队党支部代表",
+        "evidence": "金俊山在公社灶上吃过晚饭，在中央人民广播电台的各地人民广播电台联播节目完了以后，就在公社的广播室里，代表双水村大队党支部，向全公社人民检查他们村损人利己的不法行为。"
+      },
+      {
+        "key": "occupation",
+        "value": "大队副书记",
+        "evidence": "见大队副书记金俊山进了门"
+      },
+      {
+        "key": "occupation",
+        "value": "队里的副书记",
+        "evidence": "队里的副书记金俊山"
+      },
+      {
+        "key": "occupation",
+        "value": "队里的领导",
+        "evidence": "他虽然是队里的领导"
+      },
+      {
+        "key": "occupation",
+        "value": "大队党支部副书记",
+        "evidence": "大队党支部副书记金俊山经常扮演“救火队”的角色"
+      },
+      {
+        "key": "occupation",
+        "value": "村长",
+        "evidence": "副书记金俊山——他现在还兼任了村长——买了十几只好山羊"
+      },
+      {
+        "key": "occupation",
+        "value": "奶羊专业户",
+        "evidence": "我们发现，刚才代表双水村“致词”的是羊奶喝得红光满面的金俊山（他已成了奶羊专业户）。"
+      },
+      {
+        "key": "occupation",
+        "value": "副支书",
+        "evidence": "支书田福堂，副支书金俊山，另外两个支委金俊武和田海民，都先后来到了这个他们已经久违了的地方。"
+      },
+      {
+        "key": "occupation",
+        "value": "普通老百姓",
+        "evidence": "这样，福堂同志和俊山同时就成了普通老百姓。"
+      }
+    ]
+  },
+  "金俊文": {
+    "name": "金俊文",
+    "aliases": [
+      "俊文",
+      "金俊文"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "打土窑专家",
+        "evidence": "双水村打土窑最出色的专家是金俊文。"
+      },
+      {
+        "key": "occupation",
+        "value": "庄稼人",
+        "evidence": "这个因儿子金富的“手艺”而急骤发达起来的庄稼人，竟然弄起了一个售衣服的摊子"
+      },
+      {
+        "key": "occupation",
+        "value": "窝赃犯",
+        "evidence": "窝赃犯金俊文有期徒刑四年"
+      }
+    ]
+  },
+  "金俊斌": {
+    "name": "金俊斌",
+    "aliases": [
+      "俊斌",
+      "金俊斌"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "俊斌是个农民，人又殁了，也没留下个后代"
+      }
+    ]
+  },
+  "金俊武": {
+    "name": "金俊武",
+    "aliases": [
+      "俊武",
+      "金俊武"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "二队长",
+        "evidence": "一大户是二队长金俊武弟兄三家；"
+      },
+      {
+        "key": "occupation",
+        "value": "二队队长",
+        "evidence": "二队队长金俊武"
+      },
+      {
+        "key": "occupation",
+        "value": "党支部委员",
+        "evidence": "但金俊武比他和俊山都年轻，又是党支部委员，时不时曲里拐弯和他过不去。"
+      },
+      {
+        "key": "occupation",
+        "value": "共产党员",
+        "evidence": "不愧是共产党员嘛！识大体，顾大局……"
+      },
+      {
+        "key": "occupation",
+        "value": "队长",
+        "evidence": "两个生产队的队长少安和俊武也在那里。"
+      },
+      {
+        "key": "occupation",
+        "value": "大队党支部委员",
+        "evidence": "他自己是个共产党员，又是大队党支部委员"
+      },
+      {
+        "key": "occupation",
+        "value": "庄稼人",
+        "evidence": "壮实的庄稼人金俊武两腿发软了。"
+      },
+      {
+        "key": "occupation",
+        "value": "前二队长",
+        "evidence": "金家湾前二队长金俊武就是其中之一。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "再说一个土包子农民，很难摸来行情（如今叫什么“信息”）。"
+      },
+      {
+        "key": "traits",
+        "value": "头号能人",
+        "evidence": "金家湾这面的头号能人金俊武"
+      },
+      {
+        "key": "occupation",
+        "value": "双水村的领导之一",
+        "evidence": "这金俊武不仅光景在村中拔尖，同时也是双水村的领导之一"
+      },
+      {
+        "key": "occupation",
+        "value": "原二队长",
+        "evidence": "这就是原二队长金俊武。"
+      },
+      {
+        "key": "occupation",
+        "value": "养奶羊、喂奶牛",
+        "evidence": "金俊武既养奶羊，还喂了两头大奶牛。"
+      },
+      {
+        "key": "occupation",
+        "value": "育树苗",
+        "evidence": "开始育树苗。"
+      },
+      {
+        "key": "occupation",
+        "value": "支委",
+        "evidence": "支书田福堂，副支书金俊山，另外两个支委金俊武和田海民，都先后来到了这个他们已经久违了的地方。"
+      },
+      {
+        "key": "occupation",
+        "value": "村党支部书记",
+        "evidence": "金俊武接替著名的田福堂出任了村党支部书记；"
+      },
+      {
+        "key": "occupation",
+        "value": "新任支书",
+        "evidence": "我们看见新任支书金俊武脸被剃头刀刮得净光"
+      },
+      {
+        "key": "occupation",
+        "value": "会议主持人",
+        "evidence": "俊武是会议主持人。"
+      }
+    ]
+  },
+  "金俊武老婆": {
+    "name": "金俊武老婆",
+    "aliases": [
+      "金俊武老婆"
+    ],
+    "attributes": []
+  },
+  "金俊海": {
+    "name": "金俊海",
+    "aliases": [
+      "俊海",
+      "金俊海"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "司机",
+        "evidence": "俊海在地区运输公司开车"
+      },
+      {
+        "key": "occupation",
+        "value": "开汽车",
+        "evidence": "比如金俊海在黄原开汽车，他老婆和孩子就一直在村子里住着……"
+      },
+      {
+        "key": "occupation",
+        "value": "普通工人",
+        "evidence": "他是个普通工人"
+      },
+      {
+        "key": "status",
+        "value": "穷人",
+        "evidence": "在这个城市里，金俊海就是个“穷人”。"
+      },
+      {
+        "key": "occupation",
+        "value": "汽车司机",
+        "evidence": "作为一个普通汽车司机，生活虽然不很富裕，但也不紧巴；老婆娃娃吃穿不缺，家里的木箱里面，还常压着千二八百的积蓄。"
+      },
+      {
+        "key": "traits",
+        "value": "容貌和内心都很和善，机警",
+        "evidence": "金俊海坐在儿子身边，一边抽烟，一边机警地注视着前方，看来随时都准备为儿子排除紧急事故。他是个容貌和内心都很和善的人，不像有些山区的汽车司机那样傲气十足。"
+      },
+      {
+        "key": "occupation",
+        "value": "老司机",
+        "evidence": "这位提前退休以便让儿子顶班的老司机"
+      }
+    ]
+  },
+  "金先生": {
+    "name": "金先生",
+    "aliases": [
+      "金先生"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "教冬书的先生",
+        "evidence": "他已经在村里教冬书的金先生那里识了不少字。"
+      },
+      {
+        "key": "occupation",
+        "value": "文人",
+        "evidence": "他父亲就是旧社会双水村著名的文人金先生——老先生五二年就去世了。"
+      }
+    ]
+  },
+  "金光亮": {
+    "name": "金光亮",
+    "aliases": [
+      "金光亮"
+    ],
+    "attributes": [
+      {
+        "key": "status",
+        "value": "地主成分",
+        "evidence": "另一大户是地主成分的金光亮弟兄三家。"
+      },
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "过去咱们谁知道外国还有蜂？我这蜂是意大利的！听说光明是走后门才给我买了两箱……"
+      },
+      {
+        "key": "occupation",
+        "value": "养蜂人",
+        "evidence": "金光亮养了“意大利蜂”，"
+      },
+      {
+        "key": "occupation",
+        "value": "副会长",
+        "evidence": "同时挑选金光亮任他的“副会长”。"
+      }
+    ]
+  },
+  "金光亮他爸": {
+    "name": "金光亮他爸",
+    "aliases": [
+      "金光亮他爸"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "老地主",
+        "evidence": "首先是金光亮他爸。这位老地主几乎占据过本村三分之二的土地，使得许多人牛马般活了一生就无声无息地睡到了黄土地里。"
+      }
+    ]
+  },
+  "金光明": {
+    "name": "金光明",
+    "aliases": [
+      "光明",
+      "金光明"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "售货员",
+        "evidence": "金光明就是这二门市的售货员。"
+      },
+      {
+        "key": "status",
+        "value": "出身地主家庭",
+        "evidence": "光明也出身地主家庭，一个阶级的嘛！"
+      },
+      {
+        "key": "traits",
+        "value": "出身地主家庭",
+        "evidence": "光明也出身地主家庭，一个阶级的嘛！"
+      },
+      {
+        "key": "occupation",
+        "value": "在县城工作",
+        "evidence": "临近搬家的前几天，在县城工作的金光明就回到了家里。"
+      },
+      {
+        "key": "occupation",
+        "value": "百货二门市主任",
+        "evidence": "就成了我们已经知道的那个百货二门市的主任。"
+      },
+      {
+        "key": "occupation",
+        "value": "百货二门市的主任",
+        "evidence": "就成了我们已经知道的那个百货二门市的主任"
+      },
+      {
+        "key": "occupation",
+        "value": "原西百货公司驻铜城采购站的站长",
+        "evidence": "听说光明去年就调到这里，当了原西百货公司驻铜城采购站的站长。"
+      },
+      {
+        "key": "occupation",
+        "value": "教师",
+        "evidence": "光明当教师的媳妇姚淑芳也不搭理了"
+      }
+    ]
+  },
+  "金光辉": {
+    "name": "金光辉",
+    "aliases": [
+      "金光辉"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "支部委员",
+        "evidence": "新任支部委员有原一队副队长田福高和金家湾入党不久的前地主的小儿子金光辉。"
+      }
+    ]
+  },
+  "金大婶": {
+    "name": "金大婶",
+    "aliases": [
+      "金大婶"
+    ],
+    "attributes": []
+  },
+  "金富": {
+    "name": "金富",
+    "aliases": [
+      "金富"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "自负",
+        "evidence": "金富扬起头自负地哈哈一笑说"
+      },
+      {
+        "key": "occupation",
+        "value": "小偷",
+        "evidence": "王满银明白金富是干什么行当的，知道他身上有钱"
+      },
+      {
+        "key": "occupation",
+        "value": "盗窃团伙首领",
+        "evidence": "这是一个大盗窃团伙，首领就是金富"
+      },
+      {
+        "key": "occupation",
+        "value": "盗窃犯",
+        "evidence": "县法院要在这里公判盗窃犯金富一家子"
+      }
+    ]
+  },
+  "金富强": {
+    "name": "金富强",
+    "aliases": [
+      "金富强"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "小偷",
+        "evidence": "去年小偷金富强占了她在双水村的窑洞"
+      }
+    ]
+  },
+  "金强": {
+    "name": "金强",
+    "aliases": [
+      "金强"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "这对于一个农民来说，是最受人尊敬的品质。"
+      },
+      {
+        "key": "traits",
+        "value": "勤劳劲头，活泛，尊老爱小，见人不笑不说话，乐于助人，谦让",
+        "evidence": "小伙在土地上的那股勤劳劲头，很像他死去的三爸金俊斌。但他又比他三爸活泛，尊老爱小，见人不笑不说话。不论谁家有难处，只要他能帮上，就会尽力而为。更主要的是，他和人交往的时候，总谦让着叫自己吃点亏"
+      },
+      {
+        "key": "occupation",
+        "value": "匠人",
+        "evidence": "金强在村里年轻一代匠人中，石活水平是最高的。"
+      }
+    ]
+  },
+  "金成": {
+    "name": "金成",
+    "aliases": [
+      "金成"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "教小学",
+        "evidence": "儿子金成高中毕业，在村里教小学"
+      },
+      {
+        "key": "occupation",
+        "value": "小学教师",
+        "evidence": "在小学教师金成的办公窑里"
+      },
+      {
+        "key": "occupation",
+        "value": "教师",
+        "evidence": "在本村教师金成的办公室里把当天的报纸一张不剩地看完。"
+      },
+      {
+        "key": "occupation",
+        "value": "教书的",
+        "evidence": "和教书的儿子金成合伙喂养"
+      }
+    ]
+  },
+  "金波": {
+    "name": "金波",
+    "aliases": [
+      "金波"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "喜眉笑脸、心却生硬、手脚非常麻利、平静时像个姑娘，动作时如同一只老虎",
+        "evidence": "这家伙喜眉笑脸地对他悄悄伸出一个大拇指。但这人心却生硬，做什么事手脚非常麻利。平静时像个姑娘，动作时如同一只老虎。"
+      },
+      {
+        "key": "traits",
+        "value": "爱讲哥们义气",
+        "evidence": "金波平时爱讲个哥们义气，班里许多调皮学生都听他的。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "他们班的金波、顾养民、郝红梅和他，都选拔上了。"
+      },
+      {
+        "key": "occupation",
+        "value": "文艺兵",
+        "evidence": "金波哥因为笛子吹得好，唱歌也不错，因此被征兵的人看上了，想叫他到部队文工团当文艺兵"
+      },
+      {
+        "key": "occupation",
+        "value": "当兵",
+        "evidence": "金波已经当兵去了青海——他来信说在师部的文工团吹长笛"
+      },
+      {
+        "key": "occupation",
+        "value": "复员军人",
+        "evidence": "这位复员军人却常常一个人穿上那件军大衣"
+      },
+      {
+        "key": "occupation",
+        "value": "学开汽车",
+        "evidence": "金波正在黄原跟他父亲学开汽车。"
+      },
+      {
+        "key": "occupation",
+        "value": "退伍军人",
+        "evidence": "金波仍然没变模样，细皮嫩肉，浓眉大眼，穿一身干净的黄军装，一看就是个退伍军人。"
+      },
+      {
+        "key": "occupation",
+        "value": "揽工小子",
+        "evidence": "我实际上也是个揽工小子。"
+      },
+      {
+        "key": "occupation",
+        "value": "邮局扛邮包",
+        "evidence": "你干脆也来邮局和我一起扛邮包"
+      },
+      {
+        "key": "occupation",
+        "value": "临时工",
+        "evidence": "已经在黄原东关邮政所干了近三年临时工。"
+      },
+      {
+        "key": "traits",
+        "value": "小时候就很漂亮；现在虽然个头仍然不算很高，但长得又精干又潇洒。皮肤还像女孩子那样白嫩，一头披散的黑发，一双清澈如水的大花眼",
+        "evidence": "小时候就很漂亮；现在虽然个头仍然不算很高，但长得又精干又潇洒。皮肤还像女孩子那样白嫩，一头披散的黑发，一双清澈如水的大花眼"
+      },
+      {
+        "key": "occupation",
+        "value": "邮政所搬运邮包的临时工",
+        "evidence": "对于金波来说，他不能安于在邮政所当一名搬运邮包的临时工。"
+      },
+      {
+        "key": "traits",
+        "value": "不能安于现状，有理想",
+        "evidence": "对于金波来说，他不能安于在邮政所当一名搬运邮包的临时工。他的理想并不远大，只是想当一名汽车司机。"
+      },
+      {
+        "key": "occupation",
+        "value": "司机",
+        "evidence": "但不这样做，儿子的前程眼看要耽搁了。"
+      },
+      {
+        "key": "occupation",
+        "value": "邮车司机",
+        "evidence": "他现在接替父亲开了邮车。"
+      },
+      {
+        "key": "occupation",
+        "value": "工人",
+        "evidence": "如今，少平和金波都当了工人"
+      },
+      {
+        "key": "occupation",
+        "value": "汽车司机",
+        "evidence": "他只是个汽车司机。"
+      },
+      {
+        "key": "traits",
+        "value": "孑然一身",
+        "evidence": "他仍旧孑然一身，只和汽车为伴。"
+      }
+    ]
+  },
+  "金波哥": {
+    "name": "金波哥",
+    "aliases": [
+      "金波哥"
+    ],
+    "attributes": []
+  },
+  "金波妈": {
+    "name": "金波妈",
+    "aliases": [
+      "金波妈"
+    ],
+    "attributes": []
+  },
+  "金波父亲": {
+    "name": "金波父亲",
+    "aliases": [
+      "金波父亲"
+    ],
+    "attributes": []
+  },
+  "金秀": {
+    "name": "金秀",
+    "aliases": [
+      "秀",
+      "金秀"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "初中学生",
+        "evidence": "双双进了石圪节公社中学。"
+      },
+      {
+        "key": "traits",
+        "value": "温柔而多情",
+        "evidence": "两只水汪汪的大眼睛流露出温柔而多情的波光。"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "“兰香和金秀都考上大学了！”"
+      },
+      {
+        "key": "occupation",
+        "value": "大学生",
+        "evidence": "兰香和金秀又考上了大学"
+      },
+      {
+        "key": "occupation",
+        "value": "医学院的大学生",
+        "evidence": "秀是医学院的大学生"
+      },
+      {
+        "key": "occupation",
+        "value": "实习同学",
+        "evidence": "秀是不久前来医院实习的。"
+      },
+      {
+        "key": "occupation",
+        "value": "医护人员",
+        "evidence": "“这就是我的专业！哥哥，你放心，一切都有我哩！”"
+      },
+      {
+        "key": "occupation",
+        "value": "医院实习生",
+        "evidence": "秀因为还在医院实习，经常在他身边；"
+      }
+    ]
+  },
+  "金老先生": {
+    "name": "金老先生",
+    "aliases": [
+      "金老先生"
+    ],
+    "attributes": []
+  },
+  "金老太太": {
+    "name": "金老太太",
+    "aliases": [
+      "金老太太"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "金先生的遗孀",
+        "evidence": "又是当年前后村庄有名望的金先生的遗孀"
+      },
+      {
+        "key": "traits",
+        "value": "知书达理",
+        "evidence": "老太太是知书达理的金先生的夫人"
+      },
+      {
+        "key": "traits",
+        "value": "开通",
+        "evidence": "双水村头一个开通老人"
+      }
+    ]
+  },
+  "金芳": {
+    "name": "金芳",
+    "aliases": [
+      "金芳"
+    ],
+    "attributes": []
+  },
+  "银花": {
+    "name": "银花",
+    "aliases": [
+      "银花"
+    ],
+    "attributes": [
+      {
+        "key": "traits",
+        "value": "自私、缺乏同情心",
+        "evidence": "村民们认为他们夫妻既自私，又缺乏同情心。"
+      }
+    ]
+  },
+  "门房老头": {
+    "name": "门房老头",
+    "aliases": [
+      "门房老头"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "门房",
+        "evidence": "车被门房上值班的老头挡在了门口"
+      }
+    ]
+  },
+  "阎生华": {
+    "name": "阎生华",
+    "aliases": [
+      "阎生华"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副处长",
+        "evidence": "地区公安处一位副处长突然进了门。"
+      }
+    ]
+  },
+  "队长": {
+    "name": "队长",
+    "aliases": [
+      "队长"
+    ],
+    "attributes": []
+  },
+  "阿姆斯特朗": {
+    "name": "阿姆斯特朗",
+    "aliases": [
+      "阿姆斯特朗"
+    ],
+    "attributes": []
+  },
+  "陈永贵": {
+    "name": "陈永贵",
+    "aliases": [
+      "陈永贵"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "大队书记",
+        "evidence": "早年间，老陈不也是个大队书记吗？"
+      }
+    ]
+  },
+  "陈泽顺": {
+    "name": "陈泽顺",
+    "aliases": [
+      "陈泽顺"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "本书编选者",
+        "evidence": "得益于陕西人民出版社和本书编选者陈泽顺、刑良俊同志"
+      }
+    ]
+  },
+  "院长": {
+    "name": "院长",
+    "aliases": [
+      "院长"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "院长",
+        "evidence": "院长一听局长娃娃的腿被压坏了，立刻将医院的正副主任医师，正副主治医师全部带进了手术室"
+      }
+    ]
+  },
+  "陶窑主": {
+    "name": "陶窑主",
+    "aliases": [
+      "陶窑主"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "窑主",
+        "evidence": "有一次一家姓陶的窑主家发生了事故"
+      }
+    ]
+  },
+  "雷区长": {
+    "name": "雷区长",
+    "aliases": [
+      "雷区长"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "区长",
+        "evidence": "雷区长咧开大嘴笑着，从台子上退下来。"
+      }
+    ]
+  },
+  "雷汉义": {
+    "name": "雷汉义",
+    "aliases": [
+      "雷汉义"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "采煤五区副区长",
+        "evidence": "这是采煤五区副区长。"
+      },
+      {
+        "key": "occupation",
+        "value": "副区长",
+        "evidence": "带班的副区长雷汉义也从机头那边跑过来。"
+      },
+      {
+        "key": "occupation",
+        "value": "区长",
+        "evidence": "区长的话就是不容违抗的命令。"
+      }
+    ]
+  },
+  "顾健翎": {
+    "name": "顾健翎",
+    "aliases": [
+      "顾健翎"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "老中医",
+        "evidence": "当老中医顾健翎到来时"
+      },
+      {
+        "key": "occupation",
+        "value": "先生",
+        "evidence": "又到年轻时的老朋友顾健翎家里吃了一顿饭——当年他在本县打仗挂过两次花，都是顾先生给他治愈的。"
+      },
+      {
+        "key": "occupation",
+        "value": "名中医",
+        "evidence": "人们经常看见他那辆黑色“上海”牌小轿车停在名中医顾健翎老先生的门口。"
+      },
+      {
+        "key": "occupation",
+        "value": "省政协委员",
+        "evidence": "他是省政协委员。"
+      }
+    ]
+  },
+  "顾先生": {
+    "name": "顾先生",
+    "aliases": [
+      "顾先生"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "老中医",
+        "evidence": "登云说他牙疼，要在县医院让老中医顾先生扎针，只好把他留在了城关社……"
+      }
+    ]
+  },
+  "顾养民": {
+    "name": "顾养民",
+    "aliases": [
+      "养民",
+      "顾养民"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "班长",
+        "evidence": "就说现在吧，他对那个派头十足的班长顾养民，已经产生了一种强烈的反感情绪。"
+      },
+      {
+        "key": "occupation",
+        "value": "高中学生",
+        "evidence": "他们班的金波、顾养民、郝红梅和他，都选拔上了。"
+      },
+      {
+        "key": "traits",
+        "value": "出身知识分子家庭",
+        "evidence": "养民自己出身知识分子家庭，因此很能理解这一点。"
+      },
+      {
+        "key": "traits",
+        "value": "不嫌她的地主成分",
+        "evidence": "最使她感动的是，养民不嫌她的地主成分"
+      },
+      {
+        "key": "occupation",
+        "value": "大学生",
+        "evidence": "顾养民如愿地考进了省医学院"
+      },
+      {
+        "key": "occupation",
+        "value": "学生",
+        "evidence": "同年夏天，她听说顾养民考进了省医学院。"
+      },
+      {
+        "key": "occupation",
+        "value": "医学院学生",
+        "evidence": "养民考进了省医学院"
+      },
+      {
+        "key": "occupation",
+        "value": "医学院三年级学生",
+        "evidence": "“这是顾养民，也是咱们县的老乡。医学院三年级学生。”"
+      },
+      {
+        "key": "occupation",
+        "value": "医生",
+        "evidence": "是个好医生，但男人气质不够。"
+      },
+      {
+        "key": "occupation",
+        "value": "大夫",
+        "evidence": "当然是个很出色的大夫"
+      },
+      {
+        "key": "occupation",
+        "value": "硕士研究生",
+        "evidence": "考上了上海医科大学的硕士研究生"
+      }
+    ]
+  },
+  "顾尔纯": {
+    "name": "顾尔纯",
+    "aliases": [
+      "顾尔纯"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副教授",
+        "evidence": "由著名唐宋文学专家顾尔纯副教授讲杜甫的诗。"
+      },
+      {
+        "key": "occupation",
+        "value": "副教授、副校长",
+        "evidence": "养民的父亲顾尔纯副教授是师专的副校长"
+      }
+    ]
+  },
+  "顾老先生": {
+    "name": "顾老先生",
+    "aliases": [
+      "顾老先生"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "中医",
+        "evidence": "顾老和大部分名中医一样"
+      }
+    ]
+  },
+  "马县长": {
+    "name": "马县长",
+    "aliases": [
+      "马县长"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "常务副县长",
+        "evidence": "常务副县长马国雄虽然年龄比张有智还大一岁"
+      }
+    ]
+  },
+  "马国雄": {
+    "name": "马国雄",
+    "aliases": [
+      "马国雄"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副主任",
+        "evidence": "另一位副主任马国雄立刻附和说"
+      },
+      {
+        "key": "occupation",
+        "value": "司仪",
+        "evidence": "特邀司仪马国雄宣布婚礼开始。"
+      },
+      {
+        "key": "occupation",
+        "value": "县革委会副主任",
+        "evidence": "县革委会副主任马国雄穿一身旧军装"
+      },
+      {
+        "key": "occupation",
+        "value": "主任",
+        "evidence": "马主任就慌忙把服务员叫来，把桌子上的酒菜都端下去了。"
+      },
+      {
+        "key": "occupation",
+        "value": "县上的领导",
+        "evidence": "李登云、张有智、马国雄、白明川、周文龙等县上的领导就都相跟着来了。"
+      },
+      {
+        "key": "occupation",
+        "value": "二把手",
+        "evidence": "张有智把这件事交给“二把手”马国雄去操办"
+      },
+      {
+        "key": "occupation",
+        "value": "总指挥",
+        "evidence": "总指挥马国雄手里拿着个电喇叭"
+      },
+      {
+        "key": "occupation",
+        "value": "常务副县长",
+        "evidence": "常务副县长马国雄又只爱搞些花花哨哨的出风头事，也给他撑不上劲。"
+      }
+    ]
+  },
+  "马拉多纳": {
+    "name": "马拉多纳",
+    "aliases": [
+      "马拉多纳"
+    ],
+    "attributes": []
+  },
+  "马来花": {
+    "name": "马来花",
+    "aliases": [
+      "马来花"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "卖茶饭",
+        "evidence": "她自己在村子公路边上卖起了茶饭"
+      },
+      {
+        "key": "traits",
+        "value": "泼辣",
+        "evidence": "马来花是双水村有名的泼辣女人"
+      }
+    ]
+  },
+  "马顺": {
+    "name": "马顺",
+    "aliases": [
+      "马顺"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "农民",
+        "evidence": "他看见路边水井旁边有个正用辘轳绞水的老头，尽管穿戴也还可以，但可能是个农民——城边上的农民穿戴当然不像山区农民一样破烂。"
+      }
+    ]
+  },
+  "高凤阁": {
+    "name": "高凤阁",
+    "aliases": [
+      "高凤阁"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "地区管宣传的副书记",
+        "evidence": "在黄原地区前专员调到省二轻局当局长后，苗凯自己想让地区管宣传的副书记高凤阁当专员。"
+      },
+      {
+        "key": "occupation",
+        "value": "黄原地委副书记",
+        "evidence": "黄原地委副书记高凤阁借到省里来办事的机会"
+      },
+      {
+        "key": "occupation",
+        "value": "副书记",
+        "evidence": "人称“苏斯洛夫”的副书记高凤阁"
+      },
+      {
+        "key": "occupation",
+        "value": "地委副书记",
+        "evidence": "我表弟就是地委副书记高凤阁"
+      },
+      {
+        "key": "occupation",
+        "value": "行署专员",
+        "evidence": "高凤阁被调到南面一个地区如愿以偿地任了行署专员"
+      },
+      {
+        "key": "hometown",
+        "value": "黄原",
+        "evidence": "作为过去在黄原时多年共事的“亲密战友”"
+      },
+      {
+        "key": "occupation",
+        "value": "专员",
+        "evidence": "高凤阁被撤销了南部那个地区的专员职务后"
+      }
+    ]
+  },
+  "高廷亮": {
+    "name": "高廷亮",
+    "aliases": [
+      "高廷亮"
+    ],
+    "attributes": []
+  },
+  "高扬文": {
+    "name": "高扬文",
+    "aliases": [
+      "高扬文"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "煤炭部长",
+        "evidence": "局领导和煤炭部长高扬文也苦恼；每年夏天这一两个月，全局的煤炭产量就必定大幅度下降！"
+      }
+    ]
+  },
+  "高敏": {
+    "name": "高敏",
+    "aliases": [
+      "高敏"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省美院油画系学生",
+        "evidence": "维山的女儿高敏是省美院油画系学生，漂亮、聪敏、又懂事；"
+      }
+    ]
+  },
+  "高朗": {
+    "name": "高朗",
+    "aliases": [
+      "高朗"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "省报记者",
+        "evidence": "高朗是和她一起进省报的。"
+      },
+      {
+        "key": "hometown",
+        "value": "原西人",
+        "evidence": "这样说来，高朗实际上也是原西人，和晓霞是同乡"
+      },
+      {
+        "key": "occupation",
+        "value": "新闻记者",
+        "evidence": "其实，这只是新闻记者的职业习性。"
+      },
+      {
+        "key": "hometown",
+        "value": "原西籍",
+        "evidence": "她并且坦率地告诉他，这个人的名字叫高朗，也是原西籍人，还是什么中央某个“老”的后人等等……"
+      },
+      {
+        "key": "occupation",
+        "value": "记者",
+        "evidence": "你，一个掏炭小子，怎么能和那个叫高朗的记者相匹敌？"
+      }
+    ]
+  },
+  "高朗的父亲": {
+    "name": "高朗的父亲",
+    "aliases": [
+      "高朗的父亲"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副市长",
+        "evidence": "高朗的父亲是这个省会城市的副市长"
+      }
+    ]
+  },
+  "高来顺": {
+    "name": "高来顺",
+    "aliases": [
+      "高来顺"
+    ],
+    "attributes": []
+  },
+  "高步杰": {
+    "name": "高步杰",
+    "aliases": [
+      "高步杰"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "中纪委常委",
+        "evidence": "高步杰老汉现在是中纪委常委"
+      },
+      {
+        "key": "occupation",
+        "value": "中央纪律监察委员会常委",
+        "evidence": "另外，还有中央纪律监察委员会常委高步杰。"
+      },
+      {
+        "key": "hometown",
+        "value": "黄原原西县",
+        "evidence": "我们知道，高老是黄原原西县人，对家乡的建设一直很关心；"
+      }
+    ]
+  },
+  "高维山": {
+    "name": "高维山",
+    "aliases": [
+      "维山",
+      "高维山"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "副市长",
+        "evidence": "维山是市上的副市长，他们两家是多年的老朋友了；"
+      }
+    ]
+  },
+  "高老": {
+    "name": "高老",
+    "aliases": [
+      "高老"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "中央部级领导",
+        "evidence": "全国解放后，他一直任中央部级领导。"
+      },
+      {
+        "key": "hometown",
+        "value": "本县高家园公社高店则村人",
+        "evidence": "高老是本县高家园公社高店则村人。"
+      },
+      {
+        "key": "occupation",
+        "value": "老首长",
+        "evidence": "这些老汉说着说着就哭开了，纷纷张开没牙的嘴，向老首长描述农村的贫困状况和他们缺吃少穿的不幸处境。"
+      },
+      {
+        "key": "hometown",
+        "value": "高店子村",
+        "evidence": "吃完午饭后，高老竟然不休息，兴致勃勃地坐车回他的出生地高店子村去了……"
+      },
+      {
+        "key": "occupation",
+        "value": "中纪委党委",
+        "evidence": "中纪委党委高老去年又回了一次家乡，痛心地哀叹：三中全会以来这么多年，原西县大部分老百姓连一孔新窑洞也没建起来！"
+      }
+    ]
+  },
+  "黑白": {
+    "name": "黑白",
+    "aliases": [
+      "黑白"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "老作家",
+        "evidence": "说老作家黑白同志正在原北县"
+      },
+      {
+        "key": "occupation",
+        "value": "著名老作家",
+        "evidence": "著名老作家黑白由地区文化局长杜正贤和《黄原文艺》主编贾冰陪同，前来拜访田福军。"
+      },
+      {
+        "key": "occupation",
+        "value": "著名老作家、省作协副主席",
+        "evidence": "来讲课的有著名老作家、省作协副主席黑白"
+      },
+      {
+        "key": "occupation",
+        "value": "省作家协会副主席",
+        "evidence": "客人是省作家协会副主席黑白。"
+      }
+    ]
+  },
+  "黑耀其": {
+    "name": "黑耀其",
+    "aliases": [
+      "黑耀其"
+    ],
+    "attributes": []
+  },
+  "黑老": {
+    "name": "黑老",
+    "aliases": [
+      "黑老"
+    ],
+    "attributes": [
+      {
+        "key": "occupation",
+        "value": "作家",
+        "evidence": "他有时却到省作家协会去找老作家黑老拉拉话。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+fastapi>=0.111.0,<0.112.0
+uvicorn[standard]>=0.30.0,<0.31.0
+pydantic>=2.7.0,<3.0.0
+pydantic-settings>=2.3.0,<3.0.0
+sqlalchemy>=2.0.29,<3.0.0
+aiosqlite>=0.20.0,<0.21.0
+httpx>=0.27.0,<0.28.0
+openai>=1.30.0,<2.0.0
+python-dotenv>=1.0.1,<2.0.0
+aiosmtplib>=3.0.1,<4.0.0
+python-jose>=3.3.0,<4.0.0
+passlib[argon2]>=1.7.4,<2.0.0
+argon2-cffi>=23.1.0,<24.0.0
+neo4j>=5.22.0,<6.0.0
+

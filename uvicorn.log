@@ -1,0 +1,81 @@
+INFO:     Will watch for changes in these directories: ['/Users/xuliwei/github-project/fyp-backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [63710] using WatchFiles
+INFO:     Started server process [63735]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:60594 - "POST /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62746 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63288 - "POST /auth/register HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63470 - "GET /auth/verify?token=fzSZk0E2cPmgHdP-NgpaA_nCCVvgC0ot4aHawBPHBgs HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/uvicorn/protocols/http/httptools_impl.py", line 399, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 70, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/applications.py", line 123, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 65, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/routing.py", line 756, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/routing.py", line 776, in app
+    await route.handle(scope, receive, send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/routing.py", line 297, in handle
+    await self.app(scope, receive, send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/routing.py", line 77, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/_exception_handler.py", line 64, in wrapped_app
+    raise exc
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/starlette/routing.py", line 72, in app
+    response = await func(request)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/fastapi/routing.py", line 278, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/xuliwei/.pyenv/versions/3.11.10/envs/static-image-serving/lib/python3.11/site-packages/fastapi/routing.py", line 191, in run_endpoint_function
+    return await dependant.call(**values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/xuliwei/github-project/fyp-backend/src/auth_api.py", line 67, in verify
+    user = await verify_email_token(db, token)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/xuliwei/github-project/fyp-backend/src/auth_store.py", line 79, in verify_email_token
+    if rec.expires_at < _now():
+       ^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: can't compare offset-naive and offset-aware datetimes
+INFO:     127.0.0.1:63471 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  WatchFiles detected changes in 'src/auth_store.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [63735]
+INFO:     Started server process [87353]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:65082 - "GET /auth/verify?token=fzSZk0E2cPmgHdP-NgpaA_nCCVvgC0ot4aHawBPHBgs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49300 - "POST /auth/login HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49706 - "GET /auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49919 - "POST /conversations HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'scripts/test_jwt_graphrag_e2e.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [87353]
+INFO:     Started server process [642]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.

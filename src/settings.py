@@ -53,6 +53,13 @@ class Settings(BaseSettings):
         env_file_encoding="utf-8",
         extra="ignore",
     )
+    
+
+
+    # Graph API limits
+    GRAPH_MAX_DEPTH: int = 3
+    GRAPH_MAX_PATHS: int = 500
+    GRAPH_MAX_SNIPPET_LEN: int = 300
 
 
 settings = Settings()

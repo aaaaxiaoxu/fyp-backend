@@ -45,12 +45,22 @@ async def get_user_by_id(session: AsyncSession, user_id: str) -> User | None:
     return res.scalar_one_or_none()
 
 
-async def create_user(session: AsyncSession, email: str, password: str) -> User:
+async def create_user(
+    session: AsyncSession,
+    email: str,
+    password: str,
+    nickname: str | None = None,
+    avatar_url: str | None = None,
+) -> User:
+    nickname_val = nickname or email.split("@", 1)[0]
+    avatar_val = avatar_url or "/pubilc/头像.jpeg"
     user = User(
         id=_uuid(),
         email=email.lower().strip(),
         password_hash=hash_password(password),
         is_verified=False,
+        nickname=nickname_val,
+        avatar_url=avatar_val,
         created_at=_now(),
     )
     session.add(user)

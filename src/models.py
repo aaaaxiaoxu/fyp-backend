@@ -18,6 +18,8 @@ class User(Base):
     email: Mapped[str] = mapped_column(String(320), unique=True, index=True)
     password_hash: Mapped[str] = mapped_column(Text)
     is_verified: Mapped[bool] = mapped_column(Boolean, default=False)
+    nickname: Mapped[str] = mapped_column(String(200), default="")
+    avatar_url: Mapped[str | None] = mapped_column(String(500), default=None)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utcnow)
 
     conversations: Mapped[list["Conversation"]] = relationship(back_populates="user", cascade="all, delete-orphan")

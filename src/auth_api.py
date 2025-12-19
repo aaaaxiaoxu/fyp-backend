@@ -40,6 +40,8 @@ def _cookie_kwargs(max_age_seconds: int) -> dict:
 class RegisterRequest(BaseModel):
     email: str = Field(min_length=5)
     password: str = Field(min_length=8)
+    nickname: str | None = Field(default=None, max_length=200)
+    avatar_url: str | None = Field(default=None, max_length=500)
 
 
 class LoginRequest(BaseModel):
@@ -53,13 +55,29 @@ async def register(req: RegisterRequest, db: AsyncSession = Depends(get_db)):
     if await get_user_by_email(db, email):
         raise HTTPException(status_code=400, detail="Email already registered")
 
-    user = await create_user(db, email=email, password=req.password)
+    user = await create_user(
+        db,
+        email=email,
+        password=req.password,
+        nickname=req.nickname,
+        avatar_url=req.avatar_url,
+    )
     raw = await create_email_verification(db, user_id=user.id)
 
     verify_url = f"{settings.APP_BASE_URL}/auth/verify?token={raw}"
     await send_verification_email(to_email=user.email, verify_url=verify_url)
 
-    return {"ok": True, "message": "Registered. Please verify your email."}
+    return {
+        "ok": True,
+        "message": "Registered. Please verify your email.",
+        "user": {
+            "id": user.id,
+            "email": user.email,
+            "nickname": user.nickname,
+            "avatar_url": user.avatar_url,
+            "is_verified": user.is_verified,
+        },
+    }
 
 
 @router.get("/verify")
@@ -93,7 +111,17 @@ async def login(req: LoginRequest, resp: Response, db: AsyncSession = Depends(ge
         **_cookie_kwargs(settings.REFRESH_TOKEN_EXPIRE_DAYS * 24 * 3600),
     )
 
-    return {"ok": True, "access_token": access, "user": {"id": user.id, "email": user.email}}
+    return {
+        "ok": True,
+        "access_token": access,
+        "user": {
+            "id": user.id,
+            "email": user.email,
+            "nickname": user.nickname,
+            "avatar_url": user.avatar_url,
+            "is_verified": user.is_verified,
+        },
+    }
 
 
 @router.post("/refresh")
@@ -176,4 +204,10 @@ async def me(request: Request, db: AsyncSession = Depends(get_db)):
     if not user:
         raise HTTPException(status_code=401, detail="User not found")
 
-    return {"id": user.id, "email": user.email, "is_verified": user.is_verified}
+    return {
+        "id": user.id,
+        "email": user.email,
+        "nickname": user.nickname,
+        "avatar_url": user.avatar_url,
+        "is_verified": user.is_verified,
+    }
